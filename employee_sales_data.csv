@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Employee_ID,Employee_Name,Region,Category,Product,Units_Sold,Unit_Price,Target_Sales,Total_Sales_Raw
+TRX-10000,01-01-2025,EMP1015,Sanjay Dutt,east ,Home Appliances,Vacuum Cleaner,23,12700,13000,292100
+TRX-10001,,EMP1008,Anjali Roy,,Clothing,T-Shirt,15,6800,31700,102000
+TRX-10002,"Jan 02, 2025",EMP1013,Manish Tiwari,SOUTH,Electronics,Smartphone,7,2300,13500,16100
+TRX-10003,02-01-2025,EMP1007,Rohan Mehta,,Home Appliances,Refrigerator,23,9100,36400,209300
+TRX-10004,03-01-2025,EMP1020,Divya Bhatia,SOUTH,Home Appliances,Refrigerator,42,11200,49200,INR 470400
+TRX-10005,03-01-2025,EMP1024,Megha Jain,East,Furniture,Bed,34,14000,35000,476000
+TRX-10006,04-01-2025,EMP1008,Anjali Roy,SOUTH,Furniture,Sofa,29,16200,5300,469800
+TRX-10007,"Jan 04, 2025",EMP1001,Rahul Sharma,South,Home Appliances,Refrigerator,30,2200,8300,66000
+TRX-10008,05-01-2025,EMP1003,Amit Verma,SOUTH,Furniture,Bookshelf,49,7100,49500,347900
+TRX-10009,"Jan 05, 2025",EMP1025,Varun Dhawan,east ,Furniture,Sofa,30,16200,31500,486000
+TRX-10010,06-01-2025,EMP1020,Divya Bhatia,Central,Electronics,Laptop,45,15100,5200,679500
+TRX-10011,,EMP1018,Swati Rao,West,Clothing,Sweater,48,19000,20200,912000
+TRX-10012,"Jan 07, 2025",EMP1009,Suresh Kumar,North,Electronics,Headphones,37,7000,18900,259000
+TRX-10013,08-01-2025,EMP1006,Pooja Rani,SOUTH,Home Appliances,Vacuum Cleaner,25,6100,27500,
+TRX-10014,08-01-2025,EMP1008,Anjali Roy,West,Books,Comic Book,45,11900,29200,535500
+TRX-10015,09-01-2025,EMP1002,Priya Singh,,Clothing,T-Shirt,3,12900,29000,38700
+TRX-10016,09-01-2025,EMP1005,Vikram Patel,north,Electronics,Laptop,20,13100,14800,262000
+TRX-10017,10-01-2025,EMP1010,Kavita Joshi,East,Clothing,Jeans,17,1200,11100,20400
+TRX-10018,10-01-2025,EMP1006,Pooja Rani,east ,Books,Fiction Novel,4,15100,37800,60400
+TRX-10019,11-01-2025,EMP1011,Deepak Yadav,,Home Appliances,Washing Machine,9,16200,7800,145800
+TRX-10020,11-01-2025,EMP1010,Kavita Joshi,,Electronics,Smartwatch,34,13300,44400,452200
+TRX-10021,12-01-2025,EMP1008,Anjali Roy,Central,Clothing,Jeans,48,3700,8600,
+TRX-10022,13-01-2025,EMP1017,Gaurav Mishra,South,Books,Comic Book,3,6500,16400,19500
+TRX-10023,13-01-2025,EMP1008,Anjali Roy,North,Home Appliances,Air Conditioner,48,17800,40200,854400
+TRX-10024,14-01-2025,EMP1013,Manish Tiwari,,Books,Tech Manual,27,17500,40500,472500
+TRX-10025,"Jan 14, 2025",EMP1005,Vikram Patel,,Home Appliances,Refrigerator,32,11600,44300,371200
+TRX-10026,15-01-2025,EMP1007,Rohan Mehta,South,Furniture,Dining Table,13,2100,25500,INR 27300
+TRX-10027,15-01-2025,EMP1013,Manish Tiwari,North,Electronics,Laptop,31,10700,40900,331700
+TRX-10028,16-01-2025,EMP1024,Megha Jain,East,Home Appliances,Refrigerator,32,7200,28200,230400
+TRX-10029,16-01-2025,EMP1015,Sanjay Dutt,Central,Books,Biography,32,7700,45300,246400
+TRX-10030,17-01-2025,EMP1017,Gaurav Mishra,north,Electronics,Smartphone,1,3100,42300,3100
+TRX-10031,17-01-2025,EMP1018,Swati Rao,South,Books,Biography,35,18900,21300,661500
+TRX-10032,18-01-2025,EMP1007,Rohan Mehta,North,Home Appliances,Washing Machine,23,3500,10700,80500
+TRX-10033,,EMP1002,Priya Singh,West,Electronics,Tablet,41,4800,44600,196800
+TRX-10034,,EMP1011,Deepak Yadav,West,Clothing,Dress,11,3600,7100,39600
+TRX-10035,"Jan 20, 2025",EMP1012,Simran Kaur,east ,Furniture,Bookshelf,47,11000,7000,517000
+TRX-10036,20-01-2025,EMP1006,Pooja Rani,East,Electronics,Smartwatch,1,6700,43600,6700
+TRX-10037,21-01-2025,EMP1015,Sanjay Dutt,South,Books,Self-Help,49,3400,36900,166600
+TRX-10038,21-01-2025,EMP1018,Swati Rao,east ,Furniture,Sofa,29,6200,19400,179800
+TRX-10039,22-01-2025,EMP1014,Aarti Saxena,South,Furniture,Office Chair,44,19000,39800,836000
+TRX-10040,22-01-2025,EMP1003,Amit Verma,West,Electronics,Laptop,44,9300,43100,409200
+TRX-10041,23-01-2025,EMP1006,Pooja Rani,,Furniture,Bookshelf,2,9700,16600,19400
+TRX-10042,23-01-2025,EMP1013,Manish Tiwari,North,Books,Tech Manual,18,11900,36900,214200
+TRX-10043,,EMP1006,Pooja Rani,,Electronics,Headphones,41,14500,15100,594500
+TRX-10044,25-01-2025,EMP1019,Nitin Bansal,east ,Electronics,Laptop,46,16900,12500,INR 777400
+TRX-10045,25-01-2025,EMP1022,Sneha Nair,north,Furniture,Bed,10,17700,21000,INR 177000
+TRX-10046,26-01-2025,EMP1001,Rahul Sharma,South,Electronics,Laptop,13,16700,28200,INR 217100
+TRX-10047,26-01-2025,EMP1020,Divya Bhatia,north,Clothing,Jeans,15,11500,22300,172500
+TRX-10048,27-01-2025,EMP1017,Gaurav Mishra,east ,Home Appliances,Vacuum Cleaner,6,1800,17200,10800
+TRX-10049,27-01-2025,EMP1007,Rohan Mehta,,Clothing,Dress,8,18700,31300,149600
+TRX-10050,,EMP1020,Divya Bhatia,SOUTH,Home Appliances,Air Conditioner,4,14300,25700,57200
+TRX-10051,"Jan 28, 2025",EMP1003,Amit Verma,,Furniture,Dining Table,11,2100,6300,23100
+TRX-10052,,EMP1013,Manish Tiwari,,Books,Self-Help,19,6400,17100,121600
+TRX-10053,"Jan 29, 2025",EMP1013,Manish Tiwari,east ,Books,Comic Book,32,6000,23200,192000
+TRX-10054,30-01-2025,EMP1006,Pooja Rani,South,Home Appliances,Vacuum Cleaner,41,6800,40100,278800
+TRX-10055,,EMP1010,Kavita Joshi,East,Home Appliances,Vacuum Cleaner,15,10600,14200,159000
+TRX-10056,31-01-2025,EMP1017,Gaurav Mishra,Central,Clothing,Sweater,20,4600,7300,92000
+TRX-10057,01-02-2025,EMP1012,Simran Kaur,West,Furniture,Dining Table,32,11400,22600,364800
+TRX-10058,01-02-2025,EMP1021,Karan Kapoor,South,Furniture,Dining Table,34,17300,38400,588200
+TRX-10059,02-02-2025,EMP1010,Kavita Joshi,East,Home Appliances,Refrigerator,12,14000,29500,168000
+TRX-10060,02-02-2025,EMP1008,Anjali Roy,Central,Electronics,Tablet,8,10900,33100,87200
+TRX-10061,03-02-2025,EMP1023,Alok Pandey,South,Books,Comic Book,45,5000,47100,225000
+TRX-10062,"Feb 03, 2025",EMP1015,Sanjay Dutt,east ,Electronics,Headphones,39,7900,17900,308100
+TRX-10063,04-02-2025,EMP1025,Varun Dhawan,,Furniture,Dining Table,37,1400,21200,51800
+TRX-10064,04-02-2025,EMP1008,Anjali Roy,east ,Furniture,Bookshelf,47,4000,45600,188000
+TRX-10065,05-02-2025,EMP1003,Amit Verma,north,Clothing,Sweater,12,10300,31500,123600
+TRX-10066,06-02-2025,EMP1005,Vikram Patel,West,Home Appliances,Air Conditioner,20,3700,5000,INR 74000
+TRX-10067,"Feb 06, 2025",EMP1005,Vikram Patel,Central,Furniture,Bookshelf,49,12900,35400,632100
+TRX-10068,07-02-2025,EMP1015,Sanjay Dutt,north,Furniture,Office Chair,20,12300,49400,246000
+TRX-10069,,EMP1009,Suresh Kumar,Central,Furniture,Dining Table,1,12800,33400,12800
+TRX-10070,"Feb 08, 2025",EMP1005,Vikram Patel,Central,Home Appliances,Vacuum Cleaner,49,18800,21000,INR 921200
+TRX-10071,08-02-2025,EMP1010,Kavita Joshi,West,Books,Tech Manual,43,13500,26500,580500
+TRX-10072,09-02-2025,EMP1018,Swati Rao,,Home Appliances,Refrigerator,44,4700,45600,206800
+TRX-10073,"Feb 09, 2025",EMP1013,Manish Tiwari,West,Clothing,Jeans,8,9400,42900,75200
+TRX-10074,"Feb 10, 2025",EMP1008,Anjali Roy,north,Books,Tech Manual,26,18000,24200,468000
+TRX-10075,"Feb 10, 2025",EMP1018,Swati Rao,South,Electronics,Smartphone,47,12200,18500,INR 573400
+TRX-10076,"Feb 11, 2025",EMP1008,Anjali Roy,,Furniture,Sofa,19,4000,5000,76000
+TRX-10077,12-02-2025,EMP1021,Karan Kapoor,Central,Electronics,Smartphone,28,7200,49500,201600
+TRX-10078,12-02-2025,EMP1009,Suresh Kumar,,Books,Fiction Novel,13,16800,29400,218400
+TRX-10079,13-02-2025,EMP1004,Neha Gupta,South,Books,Biography,19,9100,15100,172900
+TRX-10080,"Feb 13, 2025",EMP1023,Alok Pandey,East,Books,Self-Help,24,6300,17800,151200
+TRX-10081,14-02-2025,EMP1021,Karan Kapoor,North,Furniture,Dining Table,15,15800,24800,237000
+TRX-10082,14-02-2025,EMP1025,Varun Dhawan,North,Electronics,Laptop,44,11100,34000,
+TRX-10083,15-02-2025,EMP1003,Amit Verma,east ,Clothing,Jeans,9,1200,47900,10800
+TRX-10084,15-02-2025,EMP1008,Anjali Roy,South,Furniture,Bookshelf,26,16200,27000,421200
+TRX-10085,16-02-2025,EMP1002,Priya Singh,Central,Furniture,Bed,43,18500,32000,795500
+TRX-10086,"Feb 16, 2025",EMP1014,Aarti Saxena,South,Furniture,Office Chair,45,3000,47600,135000
+TRX-10087,17-02-2025,EMP1023,Alok Pandey,Central,Furniture,Sofa,11,6000,34100,
+TRX-10088,"Feb 18, 2025",EMP1021,Karan Kapoor,north,Home Appliances,Refrigerator,4,12600,38300,50400
+TRX-10089,18-02-2025,EMP1015,Sanjay Dutt,East,Clothing,Dress,18,1100,20700,19800
+TRX-10090,19-02-2025,EMP1004,Neha Gupta,,Home Appliances,Air Conditioner,39,15000,12300,585000
+TRX-10091,"Feb 19, 2025",EMP1024,Megha Jain,North,Clothing,Sweater,36,9300,34700,334800
+TRX-10092,"Feb 20, 2025",EMP1007,Rohan Mehta,north,Electronics,Headphones,45,11500,42500,517500
+TRX-10093,20-02-2025,EMP1013,Manish Tiwari,SOUTH,Books,Biography,26,1800,44200,46800
+TRX-10094,"Feb 21, 2025",EMP1024,Megha Jain,,Books,Tech Manual,24,5800,12100,139200
+TRX-10095,21-02-2025,EMP1005,Vikram Patel,West,Clothing,Jacket,39,9800,14900,382200
+TRX-10096,22-02-2025,EMP1004,Neha Gupta,North,Clothing,Sweater,49,11700,22400,573300
+TRX-10097,22-02-2025,EMP1023,Alok Pandey,Central,Electronics,Smartwatch,35,16900,19200,591500
+TRX-10098,23-02-2025,EMP1009,Suresh Kumar,,Electronics,Smartphone,35,1600,36900,56000
+TRX-10099,24-02-2025,EMP1003,Amit Verma,north,Books,Fiction Novel,11,3300,29000,36300
+TRX-10100,24-02-2025,EMP1019,Nitin Bansal,West,Clothing,Jeans,39,11800,33700,
+TRX-10101,25-02-2025,EMP1008,Anjali Roy,Central,Electronics,Headphones,9,14500,43600,130500
+TRX-10102,25-02-2025,EMP1006,Pooja Rani,,Furniture,Bookshelf,2,19700,9800,39400
+TRX-10103,26-02-2025,EMP1021,Karan Kapoor,east ,Clothing,Jacket,3,9500,34900,28500
+TRX-10104,,EMP1023,Alok Pandey,South,Electronics,Tablet,23,3900,40300,89700
+TRX-10105,27-02-2025,EMP1022,Sneha Nair,West,Books,Comic Book,47,6400,33600,300800
+TRX-10106,27-02-2025,EMP1025,Varun Dhawan,SOUTH,Furniture,Sofa,12,14500,44900,174000
+TRX-10107,"Feb 28, 2025",EMP1016,Ritu Chaudhary,SOUTH,Furniture,Office Chair,5,11300,15300,56500
+TRX-10108,28-02-2025,EMP1001,Rahul Sharma,,Books,Biography,18,4100,45500,73800
+TRX-10109,01-03-2025,EMP1016,Ritu Chaudhary,north,Furniture,Dining Table,36,16000,19100,576000
+TRX-10110,02-03-2025,EMP1002,Priya Singh,,Books,Tech Manual,9,8400,29800,75600
+TRX-10111,02-03-2025,EMP1023,Alok Pandey,West,Clothing,Jacket,43,15200,45500,653600
+TRX-10112,,EMP1005,Vikram Patel,West,Clothing,Dress,49,5100,28800,249900
+TRX-10113,"Mar 03, 2025",EMP1013,Manish Tiwari,East,Clothing,Jacket,7,18900,38500,132300
+TRX-10114,04-03-2025,EMP1015,Sanjay Dutt,Central,Home Appliances,Refrigerator,2,17200,39600,34400
+TRX-10115,"Mar 04, 2025",EMP1020,Divya Bhatia,South,Clothing,T-Shirt,25,6300,49900,157500
+TRX-10116,"Mar 05, 2025",EMP1014,Aarti Saxena,North,Books,Biography,35,17800,43600,623000
+TRX-10117,05-03-2025,EMP1013,Manish Tiwari,Central,Clothing,Sweater,15,7700,7400,
+TRX-10118,"Mar 06, 2025",EMP1012,Simran Kaur,West,Clothing,Sweater,6,16900,36500,101400
+TRX-10119,06-03-2025,EMP1002,Priya Singh,SOUTH,Home Appliances,Washing Machine,19,17100,5400,324900
+TRX-10120,"Mar 07, 2025",EMP1002,Priya Singh,South,Books,Fiction Novel,9,10800,13200,
+TRX-10121,"Mar 08, 2025",EMP1014,Aarti Saxena,East,Furniture,Sofa,4,11200,30900,44800
+TRX-10122,08-03-2025,EMP1005,Vikram Patel,SOUTH,Furniture,Bed,36,13300,27000,478800
+TRX-10123,09-03-2025,EMP1018,Swati Rao,Central,Furniture,Bookshelf,27,10100,5600,272700
+TRX-10124,09-03-2025,EMP1007,Rohan Mehta,Central,Books,Comic Book,2,7100,23200,14200
+TRX-10125,10-03-2025,EMP1022,Sneha Nair,north,Books,Tech Manual,39,14200,36300,553800
+TRX-10126,"Mar 10, 2025",EMP1021,Karan Kapoor,South,Books,Comic Book,18,18200,23000,INR 327600
+TRX-10127,"Mar 11, 2025",EMP1017,Gaurav Mishra,East,Electronics,Headphones,21,6100,44400,128100
+TRX-10128,11-03-2025,EMP1021,Karan Kapoor,West,Clothing,Dress,18,18900,16100,340200
+TRX-10129,12-03-2025,EMP1010,Kavita Joshi,Central,Clothing,Sweater,41,2600,16200,106600
+TRX-10130,12-03-2025,EMP1009,Suresh Kumar,North,Clothing,Dress,29,10600,9700,307400
+TRX-10131,13-03-2025,EMP1008,Anjali Roy,Central,Furniture,Office Chair,34,1700,29600,57800
+TRX-10132,14-03-2025,EMP1008,Anjali Roy,North,Electronics,Headphones,24,18200,39200,436800
+TRX-10133,14-03-2025,EMP1012,Simran Kaur,North,Books,Comic Book,23,5200,24900,119600
+TRX-10134,,EMP1019,Nitin Bansal,east ,Home Appliances,Microwave,20,3000,18200,60000
+TRX-10135,15-03-2025,EMP1014,Aarti Saxena,West,Home Appliances,Air Conditioner,19,14400,44800,273600
+TRX-10136,16-03-2025,EMP1019,Nitin Bansal,Central,Books,Tech Manual,47,12100,8700,568700
+TRX-10137,"Mar 16, 2025",EMP1008,Anjali Roy,east ,Electronics,Laptop,15,18700,49900,INR 280500
+TRX-10138,17-03-2025,EMP1004,Neha Gupta,West,Electronics,Laptop,10,15800,26600,158000
+TRX-10139,,EMP1008,Anjali Roy,South,Books,Comic Book,31,15300,20900,474300
+TRX-10140,,EMP1002,Priya Singh,North,Clothing,T-Shirt,40,6800,20200,272000
+TRX-10141,18-03-2025,EMP1025,Varun Dhawan,South,Furniture,Bed,44,4100,26200,180400
+TRX-10142,19-03-2025,EMP1017,Gaurav Mishra,east ,Books,Self-Help,32,12800,17100,409600
+TRX-10143,20-03-2025,EMP1012,Simran Kaur,,Clothing,Sweater,21,13500,44600,283500
+TRX-10144,20-03-2025,EMP1008,Anjali Roy,SOUTH,Furniture,Office Chair,22,15900,30500,349800
+TRX-10145,21-03-2025,EMP1022,Sneha Nair,South,Clothing,Sweater,15,18900,26200,283500
+TRX-10146,21-03-2025,EMP1015,Sanjay Dutt,East,Furniture,Bookshelf,43,17400,32700,748200
+TRX-10147,22-03-2025,EMP1024,Megha Jain,East,Home Appliances,Vacuum Cleaner,39,11700,7900,456300
+TRX-10148,22-03-2025,EMP1005,Vikram Patel,east ,Clothing,Jeans,8,13800,19300,110400
+TRX-10149,23-03-2025,EMP1003,Amit Verma,North,Furniture,Office Chair,42,10700,27300,449400
+TRX-10150,,EMP1010,Kavita Joshi,Central,Home Appliances,Washing Machine,41,12100,11500,496100
+TRX-10151,24-03-2025,EMP1020,Divya Bhatia,West,Clothing,Jeans,12,2300,36300,27600
+TRX-10152,24-03-2025,EMP1021,Karan Kapoor,,Furniture,Office Chair,31,7900,44900,244900
+TRX-10153,25-03-2025,EMP1005,Vikram Patel,West,Books,Biography,10,3300,6900,33000
+TRX-10154,,EMP1005,Vikram Patel,north,Books,Comic Book,38,18300,25100,695400
+TRX-10155,26-03-2025,EMP1025,Varun Dhawan,West,Electronics,Headphones,14,1200,27000,
+TRX-10156,27-03-2025,EMP1016,Ritu Chaudhary,SOUTH,Furniture,Bed,24,17100,42500,410400
+TRX-10157,"Mar 27, 2025",EMP1019,Nitin Bansal,East,Electronics,Tablet,24,11800,45500,283200
+TRX-10158,28-03-2025,EMP1006,Pooja Rani,Central,Furniture,Office Chair,45,10300,48100,463500
+TRX-10159,"Mar 28, 2025",EMP1023,Alok Pandey,North,Clothing,Dress,28,5600,16200,156800
+TRX-10160,29-03-2025,EMP1022,Sneha Nair,North,Electronics,Headphones,48,5600,19700,268800
+TRX-10161,29-03-2025,EMP1006,Pooja Rani,SOUTH,Electronics,Smartphone,5,7000,44900,35000
+TRX-10162,30-03-2025,EMP1003,Amit Verma,North,Books,Fiction Novel,19,17900,41400,340100
+TRX-10163,30-03-2025,EMP1019,Nitin Bansal,Central,Books,Comic Book,21,8300,9800,174300
+TRX-10164,31-03-2025,EMP1004,Neha Gupta,north,Clothing,Dress,39,4800,17500,187200
+TRX-10165,"Apr 01, 2025",EMP1001,Rahul Sharma,east ,Electronics,Headphones,41,19100,37500,783100
+TRX-10166,01-04-2025,EMP1012,Simran Kaur,,Furniture,Sofa,21,16700,8500,350700
+TRX-10167,02-04-2025,EMP1010,Kavita Joshi,north,Furniture,Office Chair,28,2300,48800,64400
+TRX-10168,02-04-2025,EMP1016,Ritu Chaudhary,north,Clothing,T-Shirt,6,5300,25400,31800
+TRX-10169,03-04-2025,EMP1004,Neha Gupta,east ,Home Appliances,Air Conditioner,43,19400,38700,834200
+TRX-10170,03-04-2025,EMP1018,Swati Rao,North,Home Appliances,Refrigerator,11,15700,20900,172700
+TRX-10171,04-04-2025,EMP1016,Ritu Chaudhary,SOUTH,Books,Tech Manual,44,12900,20300,567600
+TRX-10172,04-04-2025,EMP1025,Varun Dhawan,Central,Clothing,Sweater,5,14000,13100,70000
+TRX-10173,05-04-2025,EMP1005,Vikram Patel,east ,Electronics,Tablet,25,9400,42000,235000
+TRX-10174,05-04-2025,EMP1025,Varun Dhawan,,Electronics,Smartphone,4,13600,16600,54400
+TRX-10175,06-04-2025,EMP1007,Rohan Mehta,north,Electronics,Laptop,34,3700,20100,125800
+TRX-10176,07-04-2025,EMP1009,Suresh Kumar,SOUTH,Electronics,Laptop,6,10700,14700,64200
+TRX-10177,07-04-2025,EMP1021,Karan Kapoor,Central,Clothing,T-Shirt,10,10700,11500,107000
+TRX-10178,,EMP1019,Nitin Bansal,SOUTH,Furniture,Bed,10,10800,10800,
+TRX-10179,08-04-2025,EMP1017,Gaurav Mishra,SOUTH,Books,Biography,4,11900,20300,47600
+TRX-10180,09-04-2025,EMP1015,Sanjay Dutt,east ,Books,Biography,14,16400,14100,229600
+TRX-10181,09-04-2025,EMP1008,Anjali Roy,North,Clothing,T-Shirt,3,5300,29700,15900
+TRX-10182,,EMP1020,Divya Bhatia,East,Furniture,Sofa,43,15600,42800,670800
+TRX-10183,"Apr 10, 2025",EMP1011,Deepak Yadav,east ,Furniture,Dining Table,24,5000,5700,120000
+TRX-10184,11-04-2025,EMP1021,Karan Kapoor,east ,Electronics,Smartphone,20,2100,9100,42000
+TRX-10185,11-04-2025,EMP1016,Ritu Chaudhary,East,Books,Self-Help,43,4900,33200,210700
+TRX-10186,"Apr 12, 2025",EMP1001,Rahul Sharma,SOUTH,Books,Biography,43,11000,22500,473000
+TRX-10187,13-04-2025,EMP1006,Pooja Rani,north,Home Appliances,Microwave,11,5500,6100,60500
+TRX-10188,13-04-2025,EMP1001,Rahul Sharma,SOUTH,Books,Comic Book,13,17100,20700,222300
+TRX-10189,14-04-2025,EMP1006,Pooja Rani,SOUTH,Home Appliances,Vacuum Cleaner,3,10600,7400,INR 31800
+TRX-10190,14-04-2025,EMP1020,Divya Bhatia,South,Clothing,Sweater,28,1800,27600,50400
+TRX-10191,"Apr 15, 2025",EMP1018,Swati Rao,north,Home Appliances,Air Conditioner,11,18400,47700,202400
+TRX-10192,,EMP1009,Suresh Kumar,Central,Clothing,Jacket,28,3900,12500,109200
+TRX-10193,16-04-2025,EMP1021,Karan Kapoor,east ,Clothing,T-Shirt,34,5000,21200,170000
+TRX-10194,16-04-2025,EMP1018,Swati Rao,,Electronics,Smartwatch,11,10300,15700,113300
+TRX-10195,17-04-2025,EMP1003,Amit Verma,North,Furniture,Bookshelf,34,7500,32100,255000
+TRX-10196,"Apr 17, 2025",EMP1024,Megha Jain,SOUTH,Electronics,Headphones,1,9600,17300,
+TRX-10197,"Apr 18, 2025",EMP1003,Amit Verma,West,Clothing,T-Shirt,38,15200,35200,577600
+TRX-10198,"Apr 19, 2025",EMP1003,Amit Verma,,Books,Comic Book,14,15400,35100,215600
+TRX-10199,"Apr 19, 2025",EMP1003,Amit Verma,South,Home Appliances,Microwave,27,16000,18300,432000
+TRX-10200,20-04-2025,EMP1002,Priya Singh,east ,Furniture,Bookshelf,35,15600,37700,546000
+TRX-10201,20-04-2025,EMP1014,Aarti Saxena,West,Electronics,Laptop,24,2300,47300,55200
+TRX-10202,21-04-2025,EMP1023,Alok Pandey,north,Electronics,Tablet,3,17900,15900,53700
+TRX-10203,"Apr 21, 2025",EMP1020,Divya Bhatia,SOUTH,Electronics,Tablet,19,18400,17300,349600
+TRX-10204,22-04-2025,EMP1024,Megha Jain,north,Books,Comic Book,40,3900,21300,INR 156000
+TRX-10205,22-04-2025,EMP1001,Rahul Sharma,east ,Furniture,Sofa,11,6200,19100,68200
+TRX-10206,23-04-2025,EMP1014,Aarti Saxena,,Furniture,Office Chair,28,1700,11700,47600
+TRX-10207,23-04-2025,EMP1014,Aarti Saxena,north,Electronics,Smartwatch,49,18500,11100,INR 906500
+TRX-10208,24-04-2025,EMP1003,Amit Verma,South,Books,Comic Book,48,2900,37400,139200
+TRX-10209,25-04-2025,EMP1012,Simran Kaur,North,Books,Comic Book,9,7700,25000,69300
+TRX-10210,25-04-2025,EMP1002,Priya Singh,east ,Electronics,Smartwatch,47,17700,39200,831900
+TRX-10211,26-04-2025,EMP1012,Simran Kaur,,Home Appliances,Refrigerator,29,15900,35700,461100
+TRX-10212,26-04-2025,EMP1019,Nitin Bansal,north,Furniture,Sofa,4,6400,20600,25600
+TRX-10213,27-04-2025,EMP1004,Neha Gupta,north,Furniture,Bookshelf,22,17100,11600,376200
+TRX-10214,"Apr 27, 2025",EMP1009,Suresh Kumar,North,Electronics,Smartphone,12,1500,45000,INR 18000
+TRX-10215,28-04-2025,EMP1008,Anjali Roy,East,Furniture,Dining Table,29,11800,49800,342200
+TRX-10216,28-04-2025,EMP1008,Anjali Roy,East,Books,Biography,49,15000,36100,735000
+TRX-10217,"Apr 29, 2025",EMP1017,Gaurav Mishra,North,Home Appliances,Air Conditioner,33,9900,42900,326700
+TRX-10218,29-04-2025,EMP1021,Karan Kapoor,North,Clothing,Jacket,41,1800,35900,73800
+TRX-10219,"Apr 30, 2025",EMP1017,Gaurav Mishra,,Electronics,Smartwatch,39,19200,35600,748800
+TRX-10220,01-05-2025,EMP1013,Manish Tiwari,East,Home Appliances,Vacuum Cleaner,46,5400,17600,248400
+TRX-10221,01-05-2025,EMP1012,Simran Kaur,East,Furniture,Bookshelf,12,19800,15800,237600
+TRX-10222,02-05-2025,EMP1013,Manish Tiwari,SOUTH,Furniture,Dining Table,25,10000,5700,INR 250000
+TRX-10223,02-05-2025,EMP1013,Manish Tiwari,SOUTH,Electronics,Headphones,18,7700,38700,138600
+TRX-10224,03-05-2025,EMP1004,Neha Gupta,South,Books,Self-Help,28,17700,28800,495600
+TRX-10225,03-05-2025,EMP1001,Rahul Sharma,East,Electronics,Smartphone,29,11400,49600,330600
+TRX-10226,,EMP1019,Nitin Bansal,South,Home Appliances,Microwave,39,3700,42600,144300
+TRX-10227,04-05-2025,EMP1006,Pooja Rani,Central,Clothing,Sweater,3,15300,21500,45900
+TRX-10228,"May 05, 2025",EMP1002,Priya Singh,North,Electronics,Headphones,43,7400,46800,318200
+TRX-10229,05-05-2025,EMP1015,Sanjay Dutt,Central,Books,Fiction Novel,31,16200,17600,502200
+TRX-10230,"May 06, 2025",EMP1025,Varun Dhawan,north,Furniture,Bookshelf,43,15500,48700,666500
+TRX-10231,07-05-2025,EMP1013,Manish Tiwari,SOUTH,Electronics,Smartwatch,30,19700,17100,591000
+TRX-10232,07-05-2025,EMP1003,Amit Verma,East,Furniture,Bed,41,7200,38400,295200
+TRX-10233,08-05-2025,EMP1011,Deepak Yadav,,Furniture,Bed,24,17600,46600,422400
+TRX-10234,08-05-2025,EMP1005,Vikram Patel,SOUTH,Furniture,Bookshelf,1,5600,10500,5600
+TRX-10235,"May 09, 2025",EMP1010,Kavita Joshi,South,Furniture,Office Chair,47,13500,47600,634500
+TRX-10236,09-05-2025,EMP1017,Gaurav Mishra,north,Books,Tech Manual,12,7400,22500,88800
+TRX-10237,10-05-2025,EMP1017,Gaurav Mishra,South,Books,Self-Help,11,5400,11600,59400
+TRX-10238,10-05-2025,EMP1014,Aarti Saxena,north,Home Appliances,Washing Machine,6,6800,28300,40800
+TRX-10239,11-05-2025,EMP1021,Karan Kapoor,Central,Clothing,Sweater,42,13300,8600,558600
+TRX-10240,,EMP1023,Alok Pandey,north,Furniture,Dining Table,49,3800,25000,186200
+TRX-10241,,EMP1015,Sanjay Dutt,West,Electronics,Smartwatch,48,3100,27300,148800
+TRX-10242,,EMP1005,Vikram Patel,,Electronics,Smartwatch,45,9500,21100,427500
+TRX-10243,13-05-2025,EMP1023,Alok Pandey,East,Home Appliances,Refrigerator,32,11800,40300,377600
+TRX-10244,14-05-2025,EMP1017,Gaurav Mishra,Central,Furniture,Bookshelf,11,11200,34900,123200
+TRX-10245,,EMP1001,Rahul Sharma,east ,Books,Self-Help,47,10700,44600,502900
+TRX-10246,15-05-2025,EMP1019,Nitin Bansal,North,Home Appliances,Air Conditioner,40,16100,38700,644000
+TRX-10247,,EMP1005,Vikram Patel,SOUTH,Books,Biography,17,11000,5400,187000
+TRX-10248,,EMP1019,Nitin Bansal,Central,Clothing,Jacket,45,5600,35900,252000
+TRX-10249,"May 16, 2025",EMP1021,Karan Kapoor,north,Home Appliances,Air Conditioner,17,19300,5400,328100
+TRX-10250,17-05-2025,EMP1014,Aarti Saxena,north,Electronics,Tablet,26,5700,19600,148200
+TRX-10251,17-05-2025,EMP1020,Divya Bhatia,north,Clothing,Dress,11,17000,15100,187000
+TRX-10252,"May 18, 2025",EMP1023,Alok Pandey,,Home Appliances,Refrigerator,14,9100,22800,127400
+TRX-10253,19-05-2025,EMP1015,Sanjay Dutt,West,Books,Self-Help,9,8100,9700,72900
+TRX-10254,19-05-2025,EMP1017,Gaurav Mishra,North,Electronics,Laptop,8,15600,40100,124800
+TRX-10255,20-05-2025,EMP1003,Amit Verma,Central,Books,Comic Book,16,12300,33600,196800
+TRX-10256,,EMP1022,Sneha Nair,East,Clothing,Jeans,21,17800,36900,373800
+TRX-10257,21-05-2025,EMP1024,Megha Jain,,Home Appliances,Washing Machine,8,3500,41900,28000
+TRX-10258,21-05-2025,EMP1007,Rohan Mehta,SOUTH,Home Appliances,Microwave,25,4600,34100,115000
+TRX-10259,22-05-2025,EMP1005,Vikram Patel,east ,Books,Biography,9,13600,17700,122400
+TRX-10260,22-05-2025,EMP1003,Amit Verma,South,Electronics,Smartphone,14,13700,47900,191800
+TRX-10261,,EMP1006,Pooja Rani,East,Home Appliances,Air Conditioner,32,4300,22200,INR 137600
+TRX-10262,23-05-2025,EMP1019,Nitin Bansal,north,Clothing,T-Shirt,34,13300,42400,452200
+TRX-10263,24-05-2025,EMP1002,Priya Singh,South,Clothing,Sweater,47,16800,23300,789600
+TRX-10264,"May 25, 2025",EMP1007,Rohan Mehta,East,Home Appliances,Vacuum Cleaner,39,7400,28000,288600
+TRX-10265,"May 25, 2025",EMP1021,Karan Kapoor,Central,Home Appliances,Vacuum Cleaner,25,4000,32400,100000
+TRX-10266,26-05-2025,EMP1023,Alok Pandey,West,Furniture,Bed,14,18700,20900,261800
+TRX-10267,"May 26, 2025",EMP1020,Divya Bhatia,Central,Furniture,Bookshelf,23,1700,10800,39100
+TRX-10268,27-05-2025,EMP1023,Alok Pandey,South,Clothing,Jeans,11,11400,17600,125400
+TRX-10269,27-05-2025,EMP1015,Sanjay Dutt,,Electronics,Smartphone,26,2700,39800,70200
+TRX-10270,"May 28, 2025",EMP1006,Pooja Rani,North,Clothing,T-Shirt,5,18100,43900,90500
+TRX-10271,"May 28, 2025",EMP1011,Deepak Yadav,,Electronics,Tablet,9,16400,19600,147600
+TRX-10272,"May 29, 2025",EMP1004,Neha Gupta,West,Clothing,Jacket,19,18600,19000,353400
+TRX-10273,,EMP1024,Megha Jain,East,Books,Fiction Novel,23,16600,23500,381800
+TRX-10274,30-05-2025,EMP1025,Varun Dhawan,east ,Clothing,Sweater,43,2200,45400,94600
+TRX-10275,31-05-2025,EMP1024,Megha Jain,North,Furniture,Sofa,9,3000,14300,27000
+TRX-10276,"May 31, 2025",EMP1019,Nitin Bansal,Central,Clothing,T-Shirt,48,11200,15000,537600
+TRX-10277,01-06-2025,EMP1009,Suresh Kumar,East,Clothing,Jacket,41,13300,28500,545300
+TRX-10278,"Jun 01, 2025",EMP1013,Manish Tiwari,South,Books,Comic Book,31,13900,14900,430900
+TRX-10279,"Jun 02, 2025",EMP1009,Suresh Kumar,north,Home Appliances,Microwave,45,9600,14900,432000
+TRX-10280,"Jun 02, 2025",EMP1002,Priya Singh,,Furniture,Dining Table,28,7900,5200,221200
+TRX-10281,03-06-2025,EMP1021,Karan Kapoor,east ,Electronics,Headphones,43,2200,7000,
+TRX-10282,03-06-2025,EMP1022,Sneha Nair,north,Clothing,Sweater,47,6200,9300,291400
+TRX-10283,04-06-2025,EMP1013,Manish Tiwari,Central,Clothing,T-Shirt,14,14700,40500,INR 205800
+TRX-10284,04-06-2025,EMP1003,Amit Verma,north,Electronics,Headphones,24,3800,23100,91200
+TRX-10285,05-06-2025,EMP1004,Neha Gupta,north,Electronics,Headphones,28,2500,16800,70000
+TRX-10286,06-06-2025,EMP1008,Anjali Roy,north,Books,Tech Manual,47,17100,23600,803700
+TRX-10287,06-06-2025,EMP1007,Rohan Mehta,Central,Electronics,Laptop,7,6600,10400,46200
+TRX-10288,07-06-2025,EMP1016,Ritu Chaudhary,Central,Furniture,Bookshelf,36,12000,18400,432000
+TRX-10289,07-06-2025,EMP1011,Deepak Yadav,east ,Electronics,Laptop,22,6800,9400,149600
+TRX-10290,08-06-2025,EMP1003,Amit Verma,,Books,Tech Manual,28,8800,27500,
+TRX-10291,08-06-2025,EMP1012,Simran Kaur,West,Clothing,T-Shirt,5,6500,16800,32500
+TRX-10292,"Jun 09, 2025",EMP1018,Swati Rao,north,Electronics,Laptop,26,11500,10800,299000
+TRX-10293,09-06-2025,EMP1025,Varun Dhawan,East,Home Appliances,Vacuum Cleaner,8,11300,23000,90400
+TRX-10294,10-06-2025,EMP1011,Deepak Yadav,North,Electronics,Headphones,24,19100,15100,458400
+TRX-10295,10-06-2025,EMP1015,Sanjay Dutt,,Clothing,Jeans,5,9300,29000,46500
+TRX-10296,"Jun 11, 2025",EMP1011,Deepak Yadav,east ,Electronics,Smartphone,27,2400,47100,64800
+TRX-10297,12-06-2025,EMP1021,Karan Kapoor,Central,Clothing,Jeans,13,1200,35100,15600
+TRX-10298,12-06-2025,EMP1008,Anjali Roy,North,Electronics,Tablet,11,10400,38200,114400
+TRX-10299,13-06-2025,EMP1006,Pooja Rani,,Furniture,Office Chair,48,19300,30100,926400
+TRX-10300,13-06-2025,EMP1025,Varun Dhawan,Central,Electronics,Smartphone,23,6400,6800,147200
+TRX-10301,14-06-2025,EMP1018,Swati Rao,north,Furniture,Bed,29,6800,42000,197200
+TRX-10302,14-06-2025,EMP1017,Gaurav Mishra,Central,Clothing,Jeans,8,15000,29600,120000
+TRX-10303,15-06-2025,EMP1004,Neha Gupta,North,Home Appliances,Microwave,20,9700,23600,194000
+TRX-10304,"Jun 15, 2025",EMP1022,Sneha Nair,,Books,Tech Manual,37,16500,8500,610500
+TRX-10305,,EMP1011,Deepak Yadav,Central,Clothing,Dress,2,6400,40900,12800
+TRX-10306,16-06-2025,EMP1022,Sneha Nair,Central,Home Appliances,Microwave,3,11700,39800,35100
+TRX-10307,17-06-2025,EMP1010,Kavita Joshi,West,Electronics,Tablet,1,16900,8300,16900
+TRX-10308,"Jun 18, 2025",EMP1007,Rohan Mehta,North,Home Appliances,Air Conditioner,30,17200,45300,
+TRX-10309,18-06-2025,EMP1007,Rohan Mehta,North,Clothing,Sweater,29,19000,16500,551000
+TRX-10310,19-06-2025,EMP1004,Neha Gupta,North,Clothing,T-Shirt,26,11800,10700,306800
+TRX-10311,19-06-2025,EMP1023,Alok Pandey,,Electronics,Smartwatch,1,15400,42700,15400
+TRX-10312,20-06-2025,EMP1024,Megha Jain,,Books,Biography,11,6500,24600,71500
+TRX-10313,,EMP1003,Amit Verma,East,Home Appliances,Vacuum Cleaner,7,5600,23700,39200
+TRX-10314,"Jun 21, 2025",EMP1008,Anjali Roy,Central,Books,Biography,42,9300,32800,390600
+TRX-10315,21-06-2025,EMP1020,Divya Bhatia,east ,Electronics,Tablet,39,5500,16100,214500
+TRX-10316,22-06-2025,EMP1025,Varun Dhawan,West,Clothing,Jacket,1,12000,47000,12000
+TRX-10317,22-06-2025,EMP1008,Anjali Roy,West,Clothing,Sweater,24,1300,7300,31200
+TRX-10318,23-06-2025,EMP1025,Varun Dhawan,North,Books,Biography,45,7800,32800,351000
+TRX-10319,24-06-2025,EMP1021,Karan Kapoor,,Electronics,Smartwatch,6,11000,29800,66000
+TRX-10320,24-06-2025,EMP1008,Anjali Roy,SOUTH,Books,Comic Book,3,13700,26100,INR 41100
+TRX-10321,"Jun 25, 2025",EMP1015,Sanjay Dutt,West,Furniture,Bed,36,17800,8700,640800
+TRX-10322,25-06-2025,EMP1023,Alok Pandey,South,Books,Fiction Novel,27,18800,16100,507600
+TRX-10323,26-06-2025,EMP1016,Ritu Chaudhary,north,Furniture,Bookshelf,21,2500,35900,
+TRX-10324,,EMP1010,Kavita Joshi,South,Electronics,Laptop,32,1900,18800,60800
+TRX-10325,"Jun 27, 2025",EMP1017,Gaurav Mishra,West,Furniture,Sofa,21,11000,17200,231000
+TRX-10326,27-06-2025,EMP1001,Rahul Sharma,,Home Appliances,Air Conditioner,41,13600,13000,557600
+TRX-10327,28-06-2025,EMP1008,Anjali Roy,SOUTH,Home Appliances,Microwave,39,13500,45600,526500
+TRX-10328,28-06-2025,EMP1002,Priya Singh,,Books,Fiction Novel,6,1500,19000,9000
+TRX-10329,29-06-2025,EMP1021,Karan Kapoor,East,Electronics,Laptop,48,18400,12500,883200
+TRX-10330,30-06-2025,EMP1001,Rahul Sharma,North,Home Appliances,Refrigerator,36,4100,32000,147600
+TRX-10331,"Jun 30, 2025",EMP1004,Neha Gupta,South,Electronics,Tablet,35,8700,9200,304500
+TRX-10332,01-07-2025,EMP1014,Aarti Saxena,South,Books,Biography,29,9200,26500,266800
+TRX-10333,01-07-2025,EMP1001,Rahul Sharma,North,Home Appliances,Vacuum Cleaner,5,3600,24200,18000
+TRX-10334,02-07-2025,EMP1008,Anjali Roy,East,Home Appliances,Air Conditioner,43,9800,12900,421400
+TRX-10335,02-07-2025,EMP1004,Neha Gupta,SOUTH,Clothing,Jacket,37,8100,36200,299700
+TRX-10336,"Jul 03, 2025",EMP1024,Megha Jain,SOUTH,Home Appliances,Refrigerator,19,18800,32100,INR 357200
+TRX-10337,"Jul 03, 2025",EMP1016,Ritu Chaudhary,east ,Furniture,Sofa,12,13500,16200,162000
+TRX-10338,04-07-2025,EMP1005,Vikram Patel,North,Electronics,Smartwatch,28,8700,10600,243600
+TRX-10339,04-07-2025,EMP1024,Megha Jain,North,Clothing,T-Shirt,22,13200,6800,
+TRX-10340,05-07-2025,EMP1015,Sanjay Dutt,SOUTH,Furniture,Sofa,20,19100,19000,382000
+TRX-10341,06-07-2025,EMP1023,Alok Pandey,SOUTH,Home Appliances,Vacuum Cleaner,20,3800,29700,76000
+TRX-10342,06-07-2025,EMP1010,Kavita Joshi,,Electronics,Smartphone,29,2600,11100,75400
+TRX-10343,07-07-2025,EMP1005,Vikram Patel,,Books,Tech Manual,49,18600,47400,911400
+TRX-10344,07-07-2025,EMP1003,Amit Verma,South,Electronics,Tablet,2,13300,25700,26600
+TRX-10345,08-07-2025,EMP1006,Pooja Rani,north,Clothing,Jacket,39,16600,48800,647400
+TRX-10346,08-07-2025,EMP1020,Divya Bhatia,,Furniture,Bed,20,12000,45200,240000
+TRX-10347,09-07-2025,EMP1021,Karan Kapoor,South,Home Appliances,Washing Machine,9,10500,31500,94500
+TRX-10348,09-07-2025,EMP1009,Suresh Kumar,West,Home Appliances,Air Conditioner,29,7400,30700,214600
+TRX-10349,10-07-2025,EMP1025,Varun Dhawan,Central,Home Appliances,Washing Machine,21,13200,9700,277200
+TRX-10350,10-07-2025,EMP1004,Neha Gupta,South,Electronics,Smartwatch,1,12200,33300,12200
+TRX-10351,"Jul 11, 2025",EMP1007,Rohan Mehta,North,Electronics,Headphones,1,14700,13200,14700
+TRX-10352,12-07-2025,EMP1013,Manish Tiwari,north,Electronics,Smartphone,27,6300,41900,170100
+TRX-10353,12-07-2025,EMP1020,Divya Bhatia,Central,Electronics,Headphones,15,14100,41600,211500
+TRX-10354,13-07-2025,EMP1009,Suresh Kumar,East,Furniture,Sofa,41,17900,9200,733900
+TRX-10355,13-07-2025,EMP1013,Manish Tiwari,east ,Electronics,Smartwatch,47,18900,20000,INR 888300
+TRX-10356,14-07-2025,EMP1001,Rahul Sharma,,Books,Self-Help,34,4900,48100,166600
+TRX-10357,14-07-2025,EMP1018,Swati Rao,East,Clothing,T-Shirt,16,9100,38000,145600
+TRX-10358,,EMP1023,Alok Pandey,South,Home Appliances,Air Conditioner,13,18300,49200,237900
+TRX-10359,15-07-2025,EMP1006,Pooja Rani,North,Home Appliances,Washing Machine,9,14300,25800,128700
+TRX-10360,16-07-2025,EMP1007,Rohan Mehta,North,Furniture,Bed,37,14600,40200,INR 540200
+TRX-10361,16-07-2025,EMP1021,Karan Kapoor,South,Books,Tech Manual,38,17700,41200,672600
+TRX-10362,17-07-2025,EMP1011,Deepak Yadav,Central,Furniture,Dining Table,22,14800,40300,325600
+TRX-10363,18-07-2025,EMP1013,Manish Tiwari,West,Books,Self-Help,24,7700,35900,184800
+TRX-10364,,EMP1001,Rahul Sharma,SOUTH,Home Appliances,Refrigerator,1,11100,17000,11100
+TRX-10365,19-07-2025,EMP1016,Ritu Chaudhary,Central,Electronics,Smartphone,21,11800,39700,247800
+TRX-10366,,EMP1019,Nitin Bansal,East,Furniture,Bookshelf,4,14900,17800,59600
+TRX-10367,,EMP1024,Megha Jain,SOUTH,Electronics,Smartwatch,24,16200,11000,388800
+TRX-10368,20-07-2025,EMP1014,Aarti Saxena,SOUTH,Books,Biography,42,18600,15900,781200
+TRX-10369,21-07-2025,EMP1007,Rohan Mehta,North,Electronics,Smartwatch,9,1500,36600,13500
+TRX-10370,21-07-2025,EMP1003,Amit Verma,SOUTH,Electronics,Smartwatch,23,8500,47500,195500
+TRX-10371,22-07-2025,EMP1003,Amit Verma,,Electronics,Smartwatch,37,9600,28800,355200
+TRX-10372,22-07-2025,EMP1014,Aarti Saxena,West,Books,Fiction Novel,40,9400,29600,376000
+TRX-10373,23-07-2025,EMP1006,Pooja Rani,South,Electronics,Laptop,43,16900,17500,726700
+TRX-10374,24-07-2025,EMP1014,Aarti Saxena,East,Furniture,Dining Table,42,3700,25000,155400
+TRX-10375,24-07-2025,EMP1007,Rohan Mehta,SOUTH,Home Appliances,Air Conditioner,8,11600,20100,92800
+TRX-10376,"Jul 25, 2025",EMP1015,Sanjay Dutt,North,Electronics,Tablet,10,17700,24400,177000
+TRX-10377,25-07-2025,EMP1001,Rahul Sharma,South,Clothing,Jacket,1,17100,19000,INR 17100
+TRX-10378,"Jul 26, 2025",EMP1015,Sanjay Dutt,North,Books,Comic Book,39,13700,46200,534300
+TRX-10379,26-07-2025,EMP1017,Gaurav Mishra,SOUTH,Books,Comic Book,49,1600,33100,78400
+TRX-10380,27-07-2025,EMP1007,Rohan Mehta,Central,Electronics,Laptop,17,18000,11100,
+TRX-10381,27-07-2025,EMP1003,Amit Verma,Central,Home Appliances,Refrigerator,16,3400,42900,54400
+TRX-10382,28-07-2025,EMP1009,Suresh Kumar,east ,Electronics,Smartwatch,16,17800,13500,284800
+TRX-10383,"Jul 28, 2025",EMP1019,Nitin Bansal,north,Electronics,Smartwatch,19,17800,38800,338200
+TRX-10384,"Jul 29, 2025",EMP1003,Amit Verma,Central,Electronics,Smartphone,48,14500,48400,696000
+TRX-10385,"Jul 30, 2025",EMP1012,Simran Kaur,,Furniture,Bed,49,18200,16500,891800
+TRX-10386,30-07-2025,EMP1013,Manish Tiwari,north,Furniture,Bookshelf,42,7600,17200,319200
+TRX-10387,31-07-2025,EMP1022,Sneha Nair,east ,Home Appliances,Air Conditioner,11,13100,10900,144100
+TRX-10388,"Jul 31, 2025",EMP1011,Deepak Yadav,South,Electronics,Laptop,31,13300,39700,412300
+TRX-10389,"Aug 01, 2025",EMP1024,Megha Jain,,Furniture,Sofa,37,12100,29900,447700
+TRX-10390,,EMP1007,Rohan Mehta,West,Electronics,Tablet,44,3800,26000,167200
+TRX-10391,02-08-2025,EMP1009,Suresh Kumar,north,Books,Tech Manual,16,14000,45000,224000
+TRX-10392,02-08-2025,EMP1004,Neha Gupta,Central,Books,Tech Manual,42,19800,38100,831600
+TRX-10393,"Aug 03, 2025",EMP1022,Sneha Nair,east ,Home Appliances,Microwave,45,19600,8900,882000
+TRX-10394,03-08-2025,EMP1012,Simran Kaur,North,Clothing,Jeans,12,12400,22700,148800
+TRX-10395,,EMP1018,Swati Rao,North,Electronics,Tablet,3,7000,21500,21000
+TRX-10396,"Aug 05, 2025",EMP1013,Manish Tiwari,Central,Clothing,Sweater,36,14400,46000,518400
+TRX-10397,05-08-2025,EMP1007,Rohan Mehta,Central,Furniture,Bed,20,17000,40600,340000
+TRX-10398,"Aug 06, 2025",EMP1001,Rahul Sharma,Central,Books,Comic Book,35,8800,14500,308000
+TRX-10399,"Aug 06, 2025",EMP1024,Megha Jain,South,Electronics,Tablet,29,11300,28100,327700
+TRX-10400,07-08-2025,EMP1018,Swati Rao,South,Home Appliances,Microwave,38,18500,23100,703000
+TRX-10401,,EMP1012,Simran Kaur,East,Books,Self-Help,31,15200,21200,471200
+TRX-10402,08-08-2025,EMP1013,Manish Tiwari,North,Home Appliances,Air Conditioner,21,19100,23600,401100
+TRX-10403,"Aug 08, 2025",EMP1016,Ritu Chaudhary,Central,Home Appliances,Refrigerator,32,10900,48200,INR 348800
+TRX-10404,09-08-2025,EMP1015,Sanjay Dutt,East,Home Appliances,Vacuum Cleaner,10,9200,39000,92000
+TRX-10405,"Aug 09, 2025",EMP1019,Nitin Bansal,South,Clothing,Sweater,25,2900,47600,72500
+TRX-10406,10-08-2025,EMP1023,Alok Pandey,east ,Home Appliances,Refrigerator,28,6800,23200,190400
+TRX-10407,11-08-2025,EMP1021,Karan Kapoor,South,Furniture,Sofa,20,17500,21900,350000
+TRX-10408,,EMP1011,Deepak Yadav,South,Home Appliances,Refrigerator,23,8400,42500,193200
+TRX-10409,12-08-2025,EMP1005,Vikram Patel,SOUTH,Electronics,Tablet,41,19100,39400,783100
+TRX-10410,12-08-2025,EMP1019,Nitin Bansal,North,Furniture,Sofa,40,15900,19200,636000
+TRX-10411,,EMP1015,Sanjay Dutt,North,Books,Tech Manual,48,17000,45300,816000
+TRX-10412,,EMP1011,Deepak Yadav,east ,Furniture,Office Chair,26,10300,20500,267800
+TRX-10413,14-08-2025,EMP1002,Priya Singh,Central,Electronics,Smartphone,26,8400,34100,218400
+TRX-10414,14-08-2025,EMP1008,Anjali Roy,north,Furniture,Bookshelf,26,16700,34500,434200
+TRX-10415,15-08-2025,EMP1020,Divya Bhatia,West,Home Appliances,Vacuum Cleaner,47,19300,49200,907100
+TRX-10416,15-08-2025,EMP1021,Karan Kapoor,SOUTH,Electronics,Tablet,20,4600,22800,92000
+TRX-10417,16-08-2025,EMP1015,Sanjay Dutt,SOUTH,Electronics,Smartwatch,46,2900,27100,133400
+TRX-10418,17-08-2025,EMP1021,Karan Kapoor,SOUTH,Furniture,Sofa,42,10300,32200,432600
+TRX-10419,"Aug 17, 2025",EMP1014,Aarti Saxena,South,Clothing,Dress,34,2900,10700,
+TRX-10420,"Aug 18, 2025",EMP1024,Megha Jain,West,Books,Biography,37,13500,43600,499500
+TRX-10421,"Aug 18, 2025",EMP1008,Anjali Roy,east ,Furniture,Office Chair,8,10200,15900,81600
+TRX-10422,19-08-2025,EMP1010,Kavita Joshi,SOUTH,Furniture,Sofa,13,4500,46900,58500
+TRX-10423,19-08-2025,EMP1022,Sneha Nair,West,Clothing,Jeans,11,5500,8000,60500
+TRX-10424,20-08-2025,EMP1005,Vikram Patel,north,Clothing,Jacket,48,6900,47700,331200
+TRX-10425,20-08-2025,EMP1017,Gaurav Mishra,North,Clothing,T-Shirt,42,19000,48800,798000
+TRX-10426,21-08-2025,EMP1009,Suresh Kumar,north,Books,Fiction Novel,18,12400,22500,223200
+TRX-10427,"Aug 21, 2025",EMP1017,Gaurav Mishra,SOUTH,Books,Fiction Novel,9,4900,8100,44100
+TRX-10428,22-08-2025,EMP1021,Karan Kapoor,South,Books,Fiction Novel,12,18100,49600,217200
+TRX-10429,23-08-2025,EMP1007,Rohan Mehta,,Home Appliances,Refrigerator,39,19600,44900,764400
+TRX-10430,23-08-2025,EMP1008,Anjali Roy,North,Electronics,Smartwatch,19,8600,43900,163400
+TRX-10431,"Aug 24, 2025",EMP1014,Aarti Saxena,north,Furniture,Bed,8,3400,8800,27200
+TRX-10432,24-08-2025,EMP1006,Pooja Rani,north,Furniture,Bookshelf,3,16500,27100,49500
+TRX-10433,25-08-2025,EMP1022,Sneha Nair,South,Books,Fiction Novel,14,4100,5500,57400
+TRX-10434,25-08-2025,EMP1003,Amit Verma,North,Home Appliances,Vacuum Cleaner,5,19900,30400,99500
+TRX-10435,"Aug 26, 2025",EMP1009,Suresh Kumar,Central,Clothing,Dress,22,14100,43200,INR 310200
+TRX-10436,26-08-2025,EMP1010,Kavita Joshi,South,Electronics,Headphones,17,19100,25400,324700
+TRX-10437,"Aug 27, 2025",EMP1001,Rahul Sharma,North,Clothing,Jeans,45,3200,26800,144000
+TRX-10438,"Aug 27, 2025",EMP1008,Anjali Roy,SOUTH,Books,Fiction Novel,25,19800,20500,495000
+TRX-10439,28-08-2025,EMP1002,Priya Singh,north,Clothing,T-Shirt,39,2200,33500,85800
+TRX-10440,29-08-2025,EMP1014,Aarti Saxena,South,Books,Self-Help,21,12100,14300,254100
+TRX-10441,,EMP1008,Anjali Roy,East,Furniture,Sofa,10,11700,22900,117000
+TRX-10442,30-08-2025,EMP1023,Alok Pandey,West,Electronics,Laptop,9,19100,35700,171900
+TRX-10443,30-08-2025,EMP1012,Simran Kaur,East,Home Appliances,Refrigerator,9,4100,25700,INR 36900
+TRX-10444,"Aug 31, 2025",EMP1001,Rahul Sharma,,Electronics,Tablet,12,7400,23900,88800
+TRX-10445,,EMP1010,Kavita Joshi,East,Home Appliances,Washing Machine,17,16900,40000,287300
+TRX-10446,,EMP1021,Karan Kapoor,Central,Clothing,Sweater,8,18600,24100,148800
+TRX-10447,"Sep 01, 2025",EMP1011,Deepak Yadav,east ,Electronics,Smartwatch,2,7200,16400,INR 14400
+TRX-10448,02-09-2025,EMP1007,Rohan Mehta,North,Home Appliances,Air Conditioner,38,12800,49900,486400
+TRX-10449,02-09-2025,EMP1020,Divya Bhatia,West,Clothing,T-Shirt,36,6700,34800,241200
+TRX-10450,"Sep 03, 2025",EMP1017,Gaurav Mishra,,Furniture,Bed,35,11300,13200,395500
+TRX-10451,04-09-2025,EMP1001,Rahul Sharma,South,Electronics,Headphones,4,17500,25700,
+TRX-10452,04-09-2025,EMP1009,Suresh Kumar,east ,Furniture,Bookshelf,34,7600,7400,258400
+TRX-10453,,EMP1022,Sneha Nair,,Clothing,Dress,40,1900,49700,76000
+TRX-10454,05-09-2025,EMP1024,Megha Jain,Central,Home Appliances,Refrigerator,16,12200,33200,INR 195200
+TRX-10455,06-09-2025,EMP1012,Simran Kaur,,Books,Biography,47,17100,33100,803700
+TRX-10456,06-09-2025,EMP1018,Swati Rao,West,Furniture,Bed,48,19200,13600,921600
+TRX-10457,07-09-2025,EMP1022,Sneha Nair,,Clothing,Jacket,21,9300,42700,195300
+TRX-10458,07-09-2025,EMP1022,Sneha Nair,Central,Books,Fiction Novel,38,15200,42100,577600
+TRX-10459,08-09-2025,EMP1014,Aarti Saxena,West,Electronics,Smartwatch,5,7900,42600,39500
+TRX-10460,08-09-2025,EMP1016,Ritu Chaudhary,SOUTH,Furniture,Office Chair,21,11300,6700,237300
+TRX-10461,09-09-2025,EMP1003,Amit Verma,east ,Clothing,Jeans,49,7000,39400,343000
+TRX-10462,"Sep 10, 2025",EMP1013,Manish Tiwari,Central,Books,Self-Help,38,10200,28600,387600
+TRX-10463,10-09-2025,EMP1016,Ritu Chaudhary,South,Electronics,Headphones,30,2000,35600,60000
+TRX-10464,,EMP1012,Simran Kaur,SOUTH,Clothing,Sweater,8,19800,42800,158400
+TRX-10465,11-09-2025,EMP1009,Suresh Kumar,SOUTH,Clothing,Sweater,47,17100,23300,
+TRX-10466,12-09-2025,EMP1020,Divya Bhatia,,Furniture,Sofa,22,4900,48800,107800
+TRX-10467,"Sep 12, 2025",EMP1001,Rahul Sharma,North,Electronics,Smartphone,42,15800,23100,663600
+TRX-10468,13-09-2025,EMP1022,Sneha Nair,north,Home Appliances,Vacuum Cleaner,8,19900,25700,159200
+TRX-10469,,EMP1017,Gaurav Mishra,north,Clothing,Sweater,38,9000,19400,342000
+TRX-10470,14-09-2025,EMP1013,Manish Tiwari,north,Home Appliances,Vacuum Cleaner,27,2200,19200,59400
+TRX-10471,,EMP1021,Karan Kapoor,east ,Home Appliances,Air Conditioner,5,6700,5500,33500
+TRX-10472,15-09-2025,EMP1025,Varun Dhawan,South,Clothing,Sweater,6,6800,6900,40800
+TRX-10473,"Sep 16, 2025",EMP1018,Swati Rao,West,Electronics,Laptop,14,2200,6300,30800
+TRX-10474,16-09-2025,EMP1012,Simran Kaur,SOUTH,Home Appliances,Washing Machine,44,17200,28800,
+TRX-10475,,EMP1019,Nitin Bansal,West,Furniture,Office Chair,48,5300,46500,254400
+TRX-10476,17-09-2025,EMP1017,Gaurav Mishra,SOUTH,Home Appliances,Refrigerator,35,4100,11400,143500
+TRX-10477,18-09-2025,EMP1006,Pooja Rani,Central,Furniture,Office Chair,28,15300,25700,INR 428400
+TRX-10478,,EMP1013,Manish Tiwari,South,Home Appliances,Washing Machine,9,5400,20800,48600
+TRX-10479,19-09-2025,EMP1007,Rohan Mehta,east ,Furniture,Office Chair,42,13400,15200,562800
+TRX-10480,19-09-2025,EMP1003,Amit Verma,north,Clothing,Jeans,29,17600,24600,510400
+TRX-10481,20-09-2025,EMP1011,Deepak Yadav,SOUTH,Books,Tech Manual,4,10200,15700,40800
+TRX-10482,20-09-2025,EMP1010,Kavita Joshi,South,Clothing,T-Shirt,10,1500,27800,15000
+TRX-10483,21-09-2025,EMP1003,Amit Verma,North,Furniture,Bed,41,14200,38600,582200
+TRX-10484,22-09-2025,EMP1024,Megha Jain,north,Home Appliances,Microwave,48,2000,19900,96000
+TRX-10485,,EMP1010,Kavita Joshi,East,Electronics,Headphones,23,2300,12500,52900
+TRX-10486,23-09-2025,EMP1017,Gaurav Mishra,,Electronics,Smartphone,47,7800,13200,366600
+TRX-10487,23-09-2025,EMP1023,Alok Pandey,,Furniture,Dining Table,48,3400,28600,163200
+TRX-10488,,EMP1010,Kavita Joshi,,Clothing,T-Shirt,14,10800,7400,151200
+TRX-10489,"Sep 24, 2025",EMP1002,Priya Singh,East,Home Appliances,Washing Machine,21,18200,13400,382200
+TRX-10490,25-09-2025,EMP1017,Gaurav Mishra,South,Furniture,Sofa,18,6300,34700,113400
+TRX-10491,25-09-2025,EMP1016,Ritu Chaudhary,North,Home Appliances,Refrigerator,26,15300,23600,INR 397800
+TRX-10492,26-09-2025,EMP1012,Simran Kaur,West,Clothing,Jeans,27,3600,36400,97200
+TRX-10493,26-09-2025,EMP1008,Anjali Roy,SOUTH,Furniture,Bed,43,2600,19000,111800
+TRX-10494,27-09-2025,EMP1017,Gaurav Mishra,east ,Furniture,Bookshelf,5,9900,5700,49500
+TRX-10495,28-09-2025,EMP1022,Sneha Nair,Central,Clothing,Sweater,37,3800,22900,140600
+TRX-10496,28-09-2025,EMP1004,Neha Gupta,West,Home Appliances,Vacuum Cleaner,21,7300,15500,153300
+TRX-10497,29-09-2025,EMP1023,Alok Pandey,West,Books,Biography,6,7200,33000,43200
+TRX-10498,,EMP1022,Sneha Nair,South,Books,Biography,45,2800,7900,126000
+TRX-10499,,EMP1013,Manish Tiwari,north,Books,Biography,47,17300,7100,813100
+TRX-10500,30-09-2025,EMP1019,Nitin Bansal,East,Furniture,Sofa,9,4100,19700,36900
+TRX-10501,01-10-2025,EMP1018,Swati Rao,Central,Furniture,Office Chair,22,19500,21400,INR 429000
+TRX-10502,01-10-2025,EMP1012,Simran Kaur,South,Books,Tech Manual,42,10400,18600,436800
+TRX-10503,"Oct 02, 2025",EMP1019,Nitin Bansal,East,Electronics,Smartwatch,31,9200,23800,285200
+TRX-10504,02-10-2025,EMP1002,Priya Singh,West,Clothing,Jeans,24,2600,24300,62400
+TRX-10505,03-10-2025,EMP1016,Ritu Chaudhary,SOUTH,Books,Self-Help,1,14800,13700,14800
+TRX-10506,,EMP1004,Neha Gupta,SOUTH,Clothing,Jeans,31,10100,44500,313100
+TRX-10507,"Oct 04, 2025",EMP1015,Sanjay Dutt,Central,Clothing,Jeans,24,1300,15500,31200
+TRX-10508,,EMP1011,Deepak Yadav,east ,Clothing,Jacket,45,2100,38000,94500
+TRX-10509,"Oct 05, 2025",EMP1017,Gaurav Mishra,north,Clothing,T-Shirt,2,6900,19300,INR 13800
+TRX-10510,06-10-2025,EMP1020,Divya Bhatia,north,Furniture,Sofa,10,19700,14500,197000
+TRX-10511,06-10-2025,EMP1001,Rahul Sharma,east ,Electronics,Smartphone,37,3100,35200,114700
+TRX-10512,,EMP1018,Swati Rao,,Clothing,Jeans,2,2100,13800,4200
+TRX-10513,"Oct 07, 2025",EMP1012,Simran Kaur,,Clothing,T-Shirt,48,2900,27500,139200
+TRX-10514,08-10-2025,EMP1002,Priya Singh,North,Home Appliances,Air Conditioner,24,16400,21300,393600
+TRX-10515,08-10-2025,EMP1025,Varun Dhawan,South,Books,Biography,28,9300,15000,260400
+TRX-10516,09-10-2025,EMP1024,Megha Jain,Central,Clothing,Sweater,24,15100,19500,362400
+TRX-10517,"Oct 10, 2025",EMP1012,Simran Kaur,north,Furniture,Bookshelf,22,13600,46900,299200
+TRX-10518,,EMP1004,Neha Gupta,east ,Electronics,Laptop,36,15700,47800,565200
+TRX-10519,11-10-2025,EMP1003,Amit Verma,SOUTH,Books,Self-Help,5,15800,44900,79000
+TRX-10520,11-10-2025,EMP1014,Aarti Saxena,SOUTH,Furniture,Sofa,14,7000,13600,98000
+TRX-10521,12-10-2025,EMP1015,Sanjay Dutt,North,Electronics,Headphones,5,11800,14700,59000
+TRX-10522,,EMP1023,Alok Pandey,east ,Home Appliances,Washing Machine,31,10800,40200,334800
+TRX-10523,"Oct 13, 2025",EMP1019,Nitin Bansal,north,Books,Self-Help,35,14200,26100,497000
+TRX-10524,"Oct 13, 2025",EMP1006,Pooja Rani,,Clothing,Sweater,27,9800,37400,264600
+TRX-10525,14-10-2025,EMP1001,Rahul Sharma,West,Furniture,Office Chair,47,6300,47200,296100
+TRX-10526,14-10-2025,EMP1022,Sneha Nair,East,Furniture,Office Chair,47,13800,24200,648600
+TRX-10527,15-10-2025,EMP1020,Divya Bhatia,north,Books,Self-Help,3,19700,21000,59100
+TRX-10528,16-10-2025,EMP1012,Simran Kaur,West,Books,Biography,39,1300,12200,50700
+TRX-10529,"Oct 16, 2025",EMP1019,Nitin Bansal,north,Home Appliances,Vacuum Cleaner,13,15000,22000,INR 195000
+TRX-10530,"Oct 17, 2025",EMP1022,Sneha Nair,West,Books,Comic Book,43,5100,39100,219300
+TRX-10531,,EMP1019,Nitin Bansal,SOUTH,Home Appliances,Vacuum Cleaner,9,2900,46100,26100
+TRX-10532,,EMP1016,Ritu Chaudhary,SOUTH,Home Appliances,Air Conditioner,31,19200,25600,595200
+TRX-10533,18-10-2025,EMP1010,Kavita Joshi,north,Clothing,Jacket,6,18300,32400,109800
+TRX-10534,"Oct 19, 2025",EMP1017,Gaurav Mishra,North,Home Appliances,Washing Machine,47,12900,10100,
+TRX-10535,,EMP1007,Rohan Mehta,West,Electronics,Headphones,38,11900,20300,452200
+TRX-10536,"Oct 20, 2025",EMP1019,Nitin Bansal,Central,Books,Comic Book,16,13000,13700,208000
+TRX-10537,20-10-2025,EMP1022,Sneha Nair,north,Electronics,Headphones,4,8400,16700,33600
+TRX-10538,21-10-2025,EMP1007,Rohan Mehta,north,Electronics,Smartwatch,28,12000,32800,336000
+TRX-10539,22-10-2025,EMP1025,Varun Dhawan,north,Books,Self-Help,36,2300,40200,82800
+TRX-10540,,EMP1017,Gaurav Mishra,East,Furniture,Bookshelf,15,11900,22200,178500
+TRX-10541,23-10-2025,EMP1019,Nitin Bansal,north,Clothing,Jacket,38,7300,9600,277400
+TRX-10542,23-10-2025,EMP1010,Kavita Joshi,SOUTH,Electronics,Smartphone,10,14700,21800,147000
+TRX-10543,24-10-2025,EMP1016,Ritu Chaudhary,South,Home Appliances,Air Conditioner,1,19000,21000,19000
+TRX-10544,24-10-2025,EMP1004,Neha Gupta,North,Furniture,Office Chair,4,1000,26700,INR 4000
+TRX-10545,25-10-2025,EMP1018,Swati Rao,,Books,Self-Help,24,4500,5700,108000
+TRX-10546,25-10-2025,EMP1011,Deepak Yadav,,Clothing,Dress,16,10800,46200,172800
+TRX-10547,26-10-2025,EMP1004,Neha Gupta,Central,Electronics,Smartphone,39,14100,48100,549900
+TRX-10548,26-10-2025,EMP1022,Sneha Nair,South,Furniture,Bed,36,2700,27100,97200
+TRX-10549,"Oct 27, 2025",EMP1007,Rohan Mehta,North,Clothing,Jeans,26,14300,13600,371800
+TRX-10550,28-10-2025,EMP1008,Anjali Roy,east ,Home Appliances,Vacuum Cleaner,31,11000,45100,INR 341000
+TRX-10551,"Oct 28, 2025",EMP1010,Kavita Joshi,North,Clothing,Sweater,30,16400,6100,492000
+TRX-10552,29-10-2025,EMP1022,Sneha Nair,Central,Furniture,Bookshelf,43,19900,21000,855700
+TRX-10553,29-10-2025,EMP1002,Priya Singh,West,Books,Biography,18,1200,48700,21600
+TRX-10554,"Oct 30, 2025",EMP1018,Swati Rao,north,Books,Tech Manual,44,19600,46600,862400
+TRX-10555,30-10-2025,EMP1011,Deepak Yadav,West,Home Appliances,Refrigerator,49,10700,24500,524300
+TRX-10556,31-10-2025,EMP1022,Sneha Nair,South,Furniture,Dining Table,21,6400,7400,134400
+TRX-10557,31-10-2025,EMP1014,Aarti Saxena,SOUTH,Furniture,Bed,49,1800,22800,INR 88200
+TRX-10558,"Nov 01, 2025",EMP1022,Sneha Nair,Central,Books,Tech Manual,32,19600,10200,627200
+TRX-10559,01-11-2025,EMP1007,Rohan Mehta,SOUTH,Books,Self-Help,3,9200,41600,27600
+TRX-10560,"Nov 02, 2025",EMP1015,Sanjay Dutt,East,Furniture,Bookshelf,19,7600,39800,144400
+TRX-10561,03-11-2025,EMP1023,Alok Pandey,West,Furniture,Office Chair,3,5400,13400,16200
+TRX-10562,03-11-2025,EMP1016,Ritu Chaudhary,East,Electronics,Headphones,13,8000,38300,104000
+TRX-10563,04-11-2025,EMP1006,Pooja Rani,South,Electronics,Laptop,1,1900,47700,1900
+TRX-10564,04-11-2025,EMP1014,Aarti Saxena,east ,Electronics,Laptop,12,9800,35500,117600
+TRX-10565,05-11-2025,EMP1014,Aarti Saxena,,Furniture,Sofa,43,14300,32800,614900
+TRX-10566,05-11-2025,EMP1011,Deepak Yadav,,Clothing,Sweater,14,3700,9200,
+TRX-10567,06-11-2025,EMP1025,Varun Dhawan,East,Home Appliances,Microwave,32,7700,28100,246400
+TRX-10568,,EMP1002,Priya Singh,East,Clothing,Sweater,5,3400,31800,
+TRX-10569,07-11-2025,EMP1018,Swati Rao,South,Clothing,Jeans,47,7200,35000,338400
+TRX-10570,07-11-2025,EMP1013,Manish Tiwari,South,Electronics,Tablet,35,6200,19600,217000
+TRX-10571,"Nov 08, 2025",EMP1014,Aarti Saxena,north,Books,Biography,41,6000,26500,246000
+TRX-10572,09-11-2025,EMP1022,Sneha Nair,SOUTH,Home Appliances,Refrigerator,28,10100,12500,282800
+TRX-10573,09-11-2025,EMP1001,Rahul Sharma,East,Furniture,Office Chair,49,4600,22900,225400
+TRX-10574,"Nov 10, 2025",EMP1002,Priya Singh,East,Books,Biography,22,2500,35900,55000
+TRX-10575,,EMP1003,Amit Verma,east ,Furniture,Bookshelf,40,9400,33100,376000
+TRX-10576,11-11-2025,EMP1001,Rahul Sharma,north,Home Appliances,Washing Machine,23,10500,41200,241500
+TRX-10577,,EMP1011,Deepak Yadav,South,Electronics,Smartwatch,39,16000,36200,624000
+TRX-10578,12-11-2025,EMP1012,Simran Kaur,South,Home Appliances,Washing Machine,7,5900,21900,INR 41300
+TRX-10579,12-11-2025,EMP1006,Pooja Rani,,Books,Comic Book,31,3000,36200,93000
+TRX-10580,13-11-2025,EMP1016,Ritu Chaudhary,North,Furniture,Bookshelf,28,15400,29500,431200
+TRX-10581,,EMP1002,Priya Singh,,Clothing,Jeans,6,8400,34600,50400
+TRX-10582,14-11-2025,EMP1006,Pooja Rani,north,Books,Self-Help,2,17700,19100,35400
+TRX-10583,15-11-2025,EMP1021,Karan Kapoor,East,Electronics,Tablet,49,12500,19500,612500
+TRX-10584,15-11-2025,EMP1013,Manish Tiwari,East,Electronics,Headphones,45,18600,20200,837000
+TRX-10585,16-11-2025,EMP1011,Deepak Yadav,South,Electronics,Smartphone,19,16000,27000,304000
+TRX-10586,16-11-2025,EMP1016,Ritu Chaudhary,north,Home Appliances,Microwave,42,15600,17800,655200
+TRX-10587,17-11-2025,EMP1016,Ritu Chaudhary,east ,Clothing,Jeans,45,14300,39400,643500
+TRX-10588,17-11-2025,EMP1006,Pooja Rani,,Home Appliances,Refrigerator,30,2700,5900,81000
+TRX-10589,18-11-2025,EMP1020,Divya Bhatia,,Furniture,Sofa,9,16300,15800,146700
+TRX-10590,18-11-2025,EMP1016,Ritu Chaudhary,East,Electronics,Headphones,5,2900,11800,14500
+TRX-10591,19-11-2025,EMP1015,Sanjay Dutt,South,Books,Comic Book,42,11800,30900,495600
+TRX-10592,19-11-2025,EMP1009,Suresh Kumar,east ,Home Appliances,Microwave,11,10800,16600,118800
+TRX-10593,20-11-2025,EMP1010,Kavita Joshi,West,Books,Biography,10,8200,8600,82000
+TRX-10594,"Nov 21, 2025",EMP1002,Priya Singh,north,Furniture,Bookshelf,29,18800,20000,545200
+TRX-10595,21-11-2025,EMP1025,Varun Dhawan,South,Furniture,Bed,17,13900,23200,236300
+TRX-10596,22-11-2025,EMP1007,Rohan Mehta,SOUTH,Home Appliances,Refrigerator,18,8400,14800,151200
+TRX-10597,22-11-2025,EMP1005,Vikram Patel,East,Home Appliances,Air Conditioner,47,7100,43100,333700
+TRX-10598,23-11-2025,EMP1024,Megha Jain,,Furniture,Sofa,35,19200,48800,672000
+TRX-10599,23-11-2025,EMP1019,Nitin Bansal,north,Furniture,Office Chair,25,15300,35400,382500
+TRX-10600,24-11-2025,EMP1008,Anjali Roy,East,Clothing,Dress,19,5100,12900,96900
+TRX-10601,24-11-2025,EMP1013,Manish Tiwari,SOUTH,Home Appliances,Refrigerator,36,16200,8300,583200
+TRX-10602,25-11-2025,EMP1018,Swati Rao,SOUTH,Books,Fiction Novel,17,18300,48800,311100
+TRX-10603,25-11-2025,EMP1019,Nitin Bansal,South,Furniture,Office Chair,38,19800,12400,752400
+TRX-10604,26-11-2025,EMP1016,Ritu Chaudhary,Central,Home Appliances,Washing Machine,48,6800,32500,326400
+TRX-10605,27-11-2025,EMP1013,Manish Tiwari,North,Books,Biography,3,11300,8400,33900
+TRX-10606,27-11-2025,EMP1001,Rahul Sharma,north,Furniture,Sofa,11,5100,17200,56100
+TRX-10607,28-11-2025,EMP1018,Swati Rao,West,Books,Fiction Novel,17,18500,23600,314500
+TRX-10608,28-11-2025,EMP1003,Amit Verma,West,Home Appliances,Air Conditioner,48,7000,31900,336000
+TRX-10609,29-11-2025,EMP1017,Gaurav Mishra,east ,Furniture,Dining Table,14,8800,9900,
+TRX-10610,29-11-2025,EMP1015,Sanjay Dutt,South,Furniture,Office Chair,47,11400,23900,535800
+TRX-10611,"Nov 30, 2025",EMP1008,Anjali Roy,West,Electronics,Smartwatch,34,19900,5000,676600
+TRX-10612,30-11-2025,EMP1014,Aarti Saxena,,Books,Tech Manual,7,16800,13100,117600
+TRX-10613,01-12-2025,EMP1025,Varun Dhawan,north,Home Appliances,Refrigerator,37,9800,25800,362600
+TRX-10614,"Dec 01, 2025",EMP1020,Divya Bhatia,Central,Books,Comic Book,35,2500,7100,87500
+TRX-10615,,EMP1017,Gaurav Mishra,North,Clothing,Jeans,21,17600,18100,369600
+TRX-10616,03-12-2025,EMP1006,Pooja Rani,North,Electronics,Smartwatch,20,2500,11800,50000
+TRX-10617,03-12-2025,EMP1005,Vikram Patel,east ,Electronics,Smartwatch,2,1800,47500,3600
+TRX-10618,"Dec 04, 2025",EMP1022,Sneha Nair,north,Clothing,Sweater,46,10600,47100,487600
+TRX-10619,"Dec 04, 2025",EMP1001,Rahul Sharma,North,Electronics,Headphones,18,3600,30900,64800
+TRX-10620,05-12-2025,EMP1001,Rahul Sharma,,Furniture,Bed,16,4300,11900,
+TRX-10621,05-12-2025,EMP1010,Kavita Joshi,east ,Electronics,Smartwatch,18,19100,48900,343800
+TRX-10622,06-12-2025,EMP1005,Vikram Patel,SOUTH,Books,Tech Manual,18,16000,12800,288000
+TRX-10623,06-12-2025,EMP1002,Priya Singh,West,Home Appliances,Refrigerator,7,4900,15500,34300
+TRX-10624,07-12-2025,EMP1001,Rahul Sharma,West,Electronics,Headphones,43,3800,41900,163400
+TRX-10625,07-12-2025,EMP1014,Aarti Saxena,,Home Appliances,Air Conditioner,6,13700,34700,82200
+TRX-10626,08-12-2025,EMP1006,Pooja Rani,east ,Electronics,Laptop,24,13700,41800,
+TRX-10627,"Dec 09, 2025",EMP1019,Nitin Bansal,north,Electronics,Headphones,30,3100,14800,93000
+TRX-10628,09-12-2025,EMP1019,Nitin Bansal,,Clothing,Jeans,31,16700,49800,
+TRX-10629,10-12-2025,EMP1023,Alok Pandey,North,Electronics,Tablet,19,6600,10500,
+TRX-10630,"Dec 10, 2025",EMP1003,Amit Verma,South,Books,Fiction Novel,21,17400,35700,365400
+TRX-10631,"Dec 11, 2025",EMP1001,Rahul Sharma,Central,Books,Biography,40,3500,42800,140000
+TRX-10632,11-12-2025,EMP1001,Rahul Sharma,West,Clothing,Jacket,23,14400,32200,331200
+TRX-10633,12-12-2025,EMP1007,Rohan Mehta,South,Books,Biography,14,2500,25500,35000
+TRX-10634,12-12-2025,EMP1019,Nitin Bansal,South,Clothing,Jeans,17,14900,17400,253300
+TRX-10635,13-12-2025,EMP1009,Suresh Kumar,West,Electronics,Smartwatch,6,15500,10700,93000
+TRX-10636,13-12-2025,EMP1001,Rahul Sharma,SOUTH,Clothing,Sweater,15,5300,44000,79500
+TRX-10637,14-12-2025,EMP1001,Rahul Sharma,West,Books,Self-Help,5,7000,23400,35000
+TRX-10638,15-12-2025,EMP1001,Rahul Sharma,SOUTH,Books,Tech Manual,15,7600,8400,114000
+TRX-10639,15-12-2025,EMP1002,Priya Singh,North,Electronics,Laptop,7,1200,20000,8400
+TRX-10640,16-12-2025,EMP1018,Swati Rao,SOUTH,Electronics,Laptop,14,18900,11000,264600
+TRX-10641,16-12-2025,EMP1007,Rohan Mehta,SOUTH,Clothing,Jeans,36,15800,20700,568800
+TRX-10642,17-12-2025,EMP1017,Gaurav Mishra,North,Clothing,Jacket,47,17900,24000,841300
+TRX-10643,17-12-2025,EMP1012,Simran Kaur,east ,Electronics,Tablet,17,7300,33300,124100
+TRX-10644,18-12-2025,EMP1018,Swati Rao,South,Furniture,Dining Table,13,2400,24800,31200
+TRX-10645,"Dec 18, 2025",EMP1022,Sneha Nair,North,Home Appliances,Refrigerator,37,18500,7400,684500
+TRX-10646,19-12-2025,EMP1006,Pooja Rani,,Books,Fiction Novel,24,6600,19400,INR 158400
+TRX-10647,19-12-2025,EMP1025,Varun Dhawan,east ,Electronics,Headphones,17,12600,38600,214200
+TRX-10648,"Dec 20, 2025",EMP1008,Anjali Roy,Central,Books,Tech Manual,29,16100,23200,466900
+TRX-10649,21-12-2025,EMP1017,Gaurav Mishra,South,Clothing,Dress,45,9100,15000,409500
+TRX-10650,21-12-2025,EMP1014,Aarti Saxena,North,Books,Biography,20,12900,38700,258000
+TRX-10651,22-12-2025,EMP1011,Deepak Yadav,,Books,Self-Help,28,2800,32000,78400
+TRX-10652,22-12-2025,EMP1025,Varun Dhawan,North,Clothing,Sweater,2,5100,18000,10200
+TRX-10653,"Dec 23, 2025",EMP1012,Simran Kaur,North,Furniture,Sofa,3,11600,23300,34800
+TRX-10654,23-12-2025,EMP1003,Amit Verma,east ,Furniture,Bed,7,5500,42200,38500
+TRX-10655,24-12-2025,EMP1016,Ritu Chaudhary,east ,Books,Fiction Novel,25,1900,9800,
+TRX-10656,24-12-2025,EMP1016,Ritu Chaudhary,east ,Books,Biography,16,15700,18300,251200
+TRX-10657,25-12-2025,EMP1009,Suresh Kumar,SOUTH,Electronics,Smartphone,45,7200,17000,324000
+TRX-10658,25-12-2025,EMP1004,Neha Gupta,South,Furniture,Sofa,26,5300,18900,137800
+TRX-10659,26-12-2025,EMP1014,Aarti Saxena,east ,Clothing,Dress,21,16500,33100,346500
+TRX-10660,27-12-2025,EMP1008,Anjali Roy,South,Clothing,T-Shirt,15,3200,13600,48000
+TRX-10661,,EMP1016,Ritu Chaudhary,South,Furniture,Bed,46,14000,23600,644000
+TRX-10662,28-12-2025,EMP1008,Anjali Roy,South,Furniture,Office Chair,44,14300,21100,629200
+TRX-10663,28-12-2025,EMP1004,Neha Gupta,north,Clothing,Dress,30,12600,22900,378000
+TRX-10664,29-12-2025,EMP1007,Rohan Mehta,East,Furniture,Office Chair,43,11000,10200,473000
+TRX-10665,29-12-2025,EMP1005,Vikram Patel,East,Clothing,Sweater,37,1800,7200,66600
+TRX-10666,30-12-2025,EMP1006,Pooja Rani,North,Clothing,Sweater,21,13000,37700,273000
+TRX-10667,30-12-2025,EMP1008,Anjali Roy,east ,Books,Self-Help,14,2300,16800,32200
+TRX-10668,31-12-2025,EMP1006,Pooja Rani,SOUTH,Clothing,T-Shirt,17,15400,5900,261800
+TRX-10669,31-12-2025,EMP1019,Nitin Bansal,North,Furniture,Bed,13,10700,47500,139100
+TRX-10670,01-01-2026,EMP1022,Sneha Nair,,Furniture,Dining Table,19,13900,24600,264100
+TRX-10671,"Jan 02, 2026",EMP1010,Kavita Joshi,South,Books,Self-Help,12,8200,31600,98400
+TRX-10672,02-01-2026,EMP1011,Deepak Yadav,Central,Furniture,Dining Table,48,1700,26100,81600
+TRX-10673,03-01-2026,EMP1010,Kavita Joshi,north,Clothing,Sweater,21,5900,39100,
+TRX-10674,03-01-2026,EMP1020,Divya Bhatia,east ,Electronics,Laptop,38,4700,45900,INR 178600
+TRX-10675,,EMP1012,Simran Kaur,north,Furniture,Dining Table,6,15400,42400,92400
+TRX-10676,04-01-2026,EMP1006,Pooja Rani,east ,Home Appliances,Refrigerator,8,15800,16900,126400
+TRX-10677,05-01-2026,EMP1021,Karan Kapoor,,Electronics,Tablet,28,6600,6700,184800
+TRX-10678,,EMP1012,Simran Kaur,,Furniture,Dining Table,42,3500,8100,147000
+TRX-10679,"Jan 06, 2026",EMP1023,Alok Pandey,South,Electronics,Headphones,23,4000,28100,INR 92000
+TRX-10680,"Jan 06, 2026",EMP1008,Anjali Roy,North,Books,Tech Manual,47,17000,6700,799000
+TRX-10681,07-01-2026,EMP1020,Divya Bhatia,East,Home Appliances,Refrigerator,18,11900,29500,214200
+TRX-10682,08-01-2026,EMP1008,Anjali Roy,Central,Clothing,Dress,11,19500,22600,214500
+TRX-10683,08-01-2026,EMP1001,Rahul Sharma,east ,Electronics,Headphones,19,10300,9100,195700
+TRX-10684,,EMP1023,Alok Pandey,north,Electronics,Headphones,34,6200,32900,210800
+TRX-10685,09-01-2026,EMP1018,Swati Rao,,Books,Tech Manual,13,9200,46300,119600
+TRX-10686,10-01-2026,EMP1008,Anjali Roy,South,Home Appliances,Air Conditioner,18,8600,20500,154800
+TRX-10687,10-01-2026,EMP1012,Simran Kaur,South,Books,Tech Manual,12,2500,13700,INR 30000
+TRX-10688,"Jan 11, 2026",EMP1009,Suresh Kumar,Central,Books,Comic Book,13,17800,37900,231400
+TRX-10689,11-01-2026,EMP1018,Swati Rao,east ,Furniture,Office Chair,15,9400,30400,141000
+TRX-10690,12-01-2026,EMP1004,Neha Gupta,Central,Books,Comic Book,45,17700,28600,796500
+TRX-10691,12-01-2026,EMP1016,Ritu Chaudhary,West,Books,Tech Manual,44,14900,45800,655600
+TRX-10692,13-01-2026,EMP1016,Ritu Chaudhary,North,Furniture,Sofa,5,19100,6100,95500
+TRX-10693,14-01-2026,EMP1024,Megha Jain,East,Books,Tech Manual,34,8600,41500,292400
+TRX-10694,14-01-2026,EMP1013,Manish Tiwari,north,Furniture,Bookshelf,7,6500,8200,45500
+TRX-10695,15-01-2026,EMP1005,Vikram Patel,East,Clothing,Jacket,15,17500,42600,262500
+TRX-10696,15-01-2026,EMP1019,Nitin Bansal,north,Home Appliances,Refrigerator,4,10400,44500,41600
+TRX-10697,16-01-2026,EMP1008,Anjali Roy,West,Electronics,Headphones,36,11000,14700,396000
+TRX-10698,16-01-2026,EMP1021,Karan Kapoor,South,Home Appliances,Washing Machine,34,11400,11200,387600
+TRX-10699,17-01-2026,EMP1009,Suresh Kumar,South,Furniture,Dining Table,12,12500,38500,150000
+TRX-10700,17-01-2026,EMP1010,Kavita Joshi,North,Clothing,T-Shirt,27,9700,41700,261900
+TRX-10701,18-01-2026,EMP1010,Kavita Joshi,north,Clothing,T-Shirt,38,16000,49500,608000
+TRX-10702,18-01-2026,EMP1017,Gaurav Mishra,,Furniture,Dining Table,24,13500,9800,INR 324000
+TRX-10703,19-01-2026,EMP1015,Sanjay Dutt,east ,Home Appliances,Washing Machine,24,18600,14700,446400
+TRX-10704,20-01-2026,EMP1016,Ritu Chaudhary,,Books,Self-Help,30,16700,49700,501000
+TRX-10705,,EMP1022,Sneha Nair,North,Clothing,T-Shirt,49,8500,29100,416500
+TRX-10706,21-01-2026,EMP1024,Megha Jain,West,Furniture,Dining Table,20,16000,39200,320000
+TRX-10707,"Jan 21, 2026",EMP1005,Vikram Patel,Central,Electronics,Smartphone,13,15600,8600,202800
+TRX-10708,22-01-2026,EMP1018,Swati Rao,West,Furniture,Bed,19,11800,35700,224200
+TRX-10709,22-01-2026,EMP1025,Varun Dhawan,Central,Furniture,Office Chair,2,7800,8300,INR 15600
+TRX-10710,"Jan 23, 2026",EMP1010,Kavita Joshi,,Books,Comic Book,10,1900,42700,19000
+TRX-10711,23-01-2026,EMP1019,Nitin Bansal,Central,Electronics,Headphones,39,8700,41800,339300
+TRX-10712,24-01-2026,EMP1021,Karan Kapoor,North,Electronics,Laptop,31,6100,11800,189100
+TRX-10713,24-01-2026,EMP1006,Pooja Rani,East,Furniture,Dining Table,13,8700,21000,113100
+TRX-10714,25-01-2026,EMP1011,Deepak Yadav,North,Furniture,Dining Table,10,10400,15700,104000
+TRX-10715,,EMP1001,Rahul Sharma,SOUTH,Clothing,Jacket,28,13600,7000,
+TRX-10716,"Jan 26, 2026",EMP1014,Aarti Saxena,SOUTH,Furniture,Bed,25,16500,23100,412500
+TRX-10717,,EMP1021,Karan Kapoor,South,Electronics,Smartwatch,33,14000,6800,462000
+TRX-10718,27-01-2026,EMP1003,Amit Verma,,Home Appliances,Microwave,45,6400,17600,
+TRX-10719,"Jan 28, 2026",EMP1012,Simran Kaur,South,Books,Self-Help,13,9600,42200,124800
+TRX-10720,,EMP1002,Priya Singh,East,Home Appliances,Refrigerator,20,8200,9100,INR 164000
+TRX-10721,29-01-2026,EMP1015,Sanjay Dutt,South,Furniture,Office Chair,5,17600,6600,88000
+TRX-10722,29-01-2026,EMP1022,Sneha Nair,SOUTH,Electronics,Headphones,45,14100,47300,634500
+TRX-10723,"Jan 30, 2026",EMP1005,Vikram Patel,West,Books,Fiction Novel,24,2300,24500,55200
+TRX-10724,30-01-2026,EMP1010,Kavita Joshi,,Home Appliances,Air Conditioner,17,3900,25900,66300
+TRX-10725,"Jan 31, 2026",EMP1003,Amit Verma,SOUTH,Electronics,Laptop,32,1800,38400,57600
+TRX-10726,01-02-2026,EMP1024,Megha Jain,East,Home Appliances,Washing Machine,12,15700,41400,188400
+TRX-10727,"Feb 01, 2026",EMP1017,Gaurav Mishra,North,Clothing,Jacket,32,19900,36400,636800
+TRX-10728,02-02-2026,EMP1022,Sneha Nair,South,Home Appliances,Air Conditioner,39,18600,6700,725400
+TRX-10729,02-02-2026,EMP1012,Simran Kaur,east ,Clothing,Dress,38,19600,45100,744800
+TRX-10730,03-02-2026,EMP1009,Suresh Kumar,east ,Home Appliances,Washing Machine,5,15100,13100,75500
+TRX-10731,"Feb 03, 2026",EMP1004,Neha Gupta,SOUTH,Furniture,Sofa,12,15900,46100,190800
+TRX-10732,04-02-2026,EMP1016,Ritu Chaudhary,West,Books,Biography,25,1000,13700,25000
+TRX-10733,04-02-2026,EMP1012,Simran Kaur,Central,Furniture,Dining Table,38,13300,34700,505400
+TRX-10734,05-02-2026,EMP1018,Swati Rao,South,Clothing,Dress,17,8000,17100,136000
+TRX-10735,"Feb 05, 2026",EMP1019,Nitin Bansal,SOUTH,Clothing,Jeans,34,5300,9400,180200
+TRX-10736,06-02-2026,EMP1006,Pooja Rani,South,Books,Tech Manual,3,1200,46500,3600
+TRX-10737,"Feb 07, 2026",EMP1010,Kavita Joshi,East,Home Appliances,Vacuum Cleaner,29,18500,38100,536500
+TRX-10738,07-02-2026,EMP1013,Manish Tiwari,east ,Clothing,Dress,39,9700,18700,378300
+TRX-10739,08-02-2026,EMP1006,Pooja Rani,East,Books,Tech Manual,27,3000,44200,81000
+TRX-10740,08-02-2026,EMP1004,Neha Gupta,east ,Home Appliances,Washing Machine,4,11000,30800,
+TRX-10741,09-02-2026,EMP1022,Sneha Nair,East,Furniture,Sofa,13,7700,34500,100100
+TRX-10742,"Feb 09, 2026",EMP1013,Manish Tiwari,north,Electronics,Headphones,49,10800,28100,529200
+TRX-10743,10-02-2026,EMP1002,Priya Singh,,Books,Biography,28,18000,11500,504000
+TRX-10744,10-02-2026,EMP1022,Sneha Nair,SOUTH,Home Appliances,Washing Machine,12,7800,49300,93600
+TRX-10745,"Feb 11, 2026",EMP1007,Rohan Mehta,,Electronics,Smartwatch,13,12900,31700,167700
+TRX-10746,11-02-2026,EMP1025,Varun Dhawan,east ,Books,Self-Help,5,2000,30800,10000
+TRX-10747,12-02-2026,EMP1021,Karan Kapoor,east ,Clothing,Jeans,34,7600,16500,
+TRX-10748,,EMP1011,Deepak Yadav,SOUTH,Books,Tech Manual,41,16900,11900,692900
+TRX-10749,13-02-2026,EMP1002,Priya Singh,South,Electronics,Headphones,39,15400,24800,600600
+TRX-10750,14-02-2026,EMP1006,Pooja Rani,SOUTH,Home Appliances,Refrigerator,20,9800,26300,196000
+TRX-10751,,EMP1017,Gaurav Mishra,east ,Books,Fiction Novel,33,3100,10100,102300
+TRX-10752,15-02-2026,EMP1005,Vikram Patel,SOUTH,Clothing,Sweater,30,7300,34200,219000
+TRX-10753,15-02-2026,EMP1010,Kavita Joshi,South,Electronics,Tablet,28,1100,14700,30800
+TRX-10754,16-02-2026,EMP1009,Suresh Kumar,Central,Furniture,Bookshelf,45,15700,28000,706500
+TRX-10755,"Feb 16, 2026",EMP1013,Manish Tiwari,SOUTH,Clothing,Sweater,38,6200,23600,235600
+TRX-10756,17-02-2026,EMP1016,Ritu Chaudhary,East,Electronics,Smartwatch,39,1300,23100,50700
+TRX-10757,17-02-2026,EMP1024,Megha Jain,West,Home Appliances,Microwave,11,16400,40700,180400
+TRX-10758,"Feb 18, 2026",EMP1007,Rohan Mehta,north,Clothing,Jacket,11,12000,21300,132000
+TRX-10759,"Feb 19, 2026",EMP1001,Rahul Sharma,East,Home Appliances,Air Conditioner,1,3400,15200,3400
+TRX-10760,19-02-2026,EMP1020,Divya Bhatia,East,Home Appliances,Refrigerator,44,7800,25900,343200
+TRX-10761,20-02-2026,EMP1002,Priya Singh,north,Books,Tech Manual,12,17300,16300,207600
+TRX-10762,20-02-2026,EMP1017,Gaurav Mishra,north,Electronics,Tablet,46,19800,43800,910800
+TRX-10763,"Feb 21, 2026",EMP1006,Pooja Rani,east ,Books,Self-Help,1,15300,19300,15300
+TRX-10764,21-02-2026,EMP1020,Divya Bhatia,east ,Home Appliances,Vacuum Cleaner,27,17500,37100,472500
+TRX-10765,22-02-2026,EMP1006,Pooja Rani,,Home Appliances,Microwave,7,7300,16600,51100
+TRX-10766,"Feb 22, 2026",EMP1008,Anjali Roy,East,Books,Biography,46,4000,31300,184000
+TRX-10767,"Feb 23, 2026",EMP1016,Ritu Chaudhary,,Clothing,Jeans,16,4500,33400,72000
+TRX-10768,23-02-2026,EMP1022,Sneha Nair,Central,Electronics,Smartwatch,38,16500,38500,627000
+TRX-10769,"Feb 24, 2026",EMP1014,Aarti Saxena,Central,Electronics,Laptop,27,9900,12200,267300
+TRX-10770,25-02-2026,EMP1017,Gaurav Mishra,east ,Books,Comic Book,7,5100,9100,35700
+TRX-10771,"Feb 25, 2026",EMP1014,Aarti Saxena,South,Electronics,Laptop,27,13800,42200,
+TRX-10772,26-02-2026,EMP1010,Kavita Joshi,West,Electronics,Smartwatch,6,13400,11600,80400
+TRX-10773,26-02-2026,EMP1021,Karan Kapoor,South,Clothing,Jeans,23,1100,13100,
+TRX-10774,"Feb 27, 2026",EMP1005,Vikram Patel,West,Furniture,Sofa,17,13800,49800,INR 234600
+TRX-10775,27-02-2026,EMP1013,Manish Tiwari,,Home Appliances,Washing Machine,22,5400,26500,118800
+TRX-10776,28-02-2026,EMP1001,Rahul Sharma,east ,Clothing,Jacket,28,2500,7300,70000
+TRX-10777,"Feb 28, 2026",EMP1019,Nitin Bansal,north,Electronics,Smartphone,1,8800,31600,8800
+TRX-10778,"Mar 01, 2026",EMP1004,Neha Gupta,Central,Home Appliances,Vacuum Cleaner,11,11200,44300,123200
+TRX-10779,01-03-2026,EMP1018,Swati Rao,SOUTH,Home Appliances,Washing Machine,7,5800,25300,40600
+TRX-10780,02-03-2026,EMP1005,Vikram Patel,South,Electronics,Headphones,36,4100,32500,147600
+TRX-10781,03-03-2026,EMP1001,Rahul Sharma,east ,Home Appliances,Air Conditioner,25,8900,48800,222500
+TRX-10782,03-03-2026,EMP1001,Rahul Sharma,Central,Home Appliances,Washing Machine,37,19000,15800,703000
+TRX-10783,04-03-2026,EMP1004,Neha Gupta,West,Furniture,Bookshelf,16,17800,48300,284800
+TRX-10784,04-03-2026,EMP1002,Priya Singh,Central,Furniture,Bed,47,4800,15200,225600
+TRX-10785,,EMP1021,Karan Kapoor,North,Furniture,Office Chair,31,5800,12200,179800
+TRX-10786,05-03-2026,EMP1020,Divya Bhatia,North,Home Appliances,Refrigerator,47,18800,40800,883600
+TRX-10787,06-03-2026,EMP1019,Nitin Bansal,,Home Appliances,Washing Machine,18,15300,27800,275400
+TRX-10788,06-03-2026,EMP1007,Rohan Mehta,SOUTH,Furniture,Office Chair,17,11500,43800,195500
+TRX-10789,,EMP1011,Deepak Yadav,North,Books,Comic Book,9,18600,41100,167400
+TRX-10790,07-03-2026,EMP1004,Neha Gupta,South,Electronics,Laptop,14,16200,7800,226800
+TRX-10791,08-03-2026,EMP1024,Megha Jain,West,Clothing,Jeans,49,18100,49000,886900
+TRX-10792,09-03-2026,EMP1011,Deepak Yadav,East,Home Appliances,Refrigerator,42,7300,11100,INR 306600
+TRX-10793,09-03-2026,EMP1010,Kavita Joshi,South,Clothing,Dress,48,6600,10700,316800
+TRX-10794,10-03-2026,EMP1004,Neha Gupta,SOUTH,Electronics,Headphones,37,1700,10100,62900
+TRX-10795,"Mar 10, 2026",EMP1012,Simran Kaur,Central,Books,Comic Book,42,4100,18600,172200
+TRX-10796,,EMP1003,Amit Verma,South,Furniture,Bookshelf,26,19400,18000,504400
+TRX-10797,11-03-2026,EMP1009,Suresh Kumar,South,Home Appliances,Air Conditioner,13,5300,7400,68900
+TRX-10798,12-03-2026,EMP1023,Alok Pandey,,Clothing,Sweater,41,18100,29500,742100
+TRX-10799,,EMP1012,Simran Kaur,South,Clothing,Sweater,5,6700,15900,
+TRX-10800,"Mar 13, 2026",EMP1010,Kavita Joshi,east ,Home Appliances,Microwave,37,3900,21100,
+TRX-10801,13-03-2026,EMP1006,Pooja Rani,north,Home Appliances,Vacuum Cleaner,26,6600,5200,171600
+TRX-10802,14-03-2026,EMP1021,Karan Kapoor,north,Home Appliances,Air Conditioner,49,5100,23500,249900
+TRX-10803,15-03-2026,EMP1004,Neha Gupta,South,Home Appliances,Refrigerator,21,10900,19500,228900
+TRX-10804,15-03-2026,EMP1014,Aarti Saxena,north,Books,Self-Help,43,13400,16300,576200
+TRX-10805,"Mar 16, 2026",EMP1008,Anjali Roy,South,Electronics,Laptop,20,3400,16400,68000
+TRX-10806,,EMP1011,Deepak Yadav,east ,Home Appliances,Washing Machine,32,3500,8900,112000
+TRX-10807,,EMP1019,Nitin Bansal,South,Clothing,Sweater,41,4200,21600,172200
+TRX-10808,17-03-2026,EMP1019,Nitin Bansal,North,Clothing,Dress,5,11500,12100,57500
+TRX-10809,18-03-2026,EMP1005,Vikram Patel,North,Clothing,Sweater,15,2200,7100,INR 33000
+TRX-10810,,EMP1011,Deepak Yadav,SOUTH,Electronics,Tablet,30,3500,6700,105000
+TRX-10811,"Mar 19, 2026",EMP1007,Rohan Mehta,North,Clothing,T-Shirt,38,13900,29000,528200
+TRX-10812,19-03-2026,EMP1014,Aarti Saxena,South,Clothing,Jeans,41,8100,46000,332100
+TRX-10813,,EMP1017,Gaurav Mishra,SOUTH,Books,Tech Manual,14,15900,11900,222600
+TRX-10814,"Mar 21, 2026",EMP1007,Rohan Mehta,East,Home Appliances,Refrigerator,13,14700,13800,191100
+TRX-10815,21-03-2026,EMP1009,Suresh Kumar,West,Clothing,T-Shirt,34,6000,31800,204000
+TRX-10816,22-03-2026,EMP1003,Amit Verma,north,Home Appliances,Refrigerator,6,18500,16900,111000
+TRX-10817,22-03-2026,EMP1019,Nitin Bansal,East,Clothing,T-Shirt,12,14200,42100,170400
+TRX-10818,23-03-2026,EMP1025,Varun Dhawan,West,Books,Fiction Novel,28,7200,14000,201600
+TRX-10819,23-03-2026,EMP1012,Simran Kaur,,Clothing,Sweater,16,18500,22200,296000
+TRX-10820,"Mar 24, 2026",EMP1022,Sneha Nair,West,Home Appliances,Refrigerator,29,17200,22300,498800
+TRX-10821,24-03-2026,EMP1015,Sanjay Dutt,,Home Appliances,Refrigerator,32,7300,48200,233600
+TRX-10822,25-03-2026,EMP1024,Megha Jain,SOUTH,Clothing,Jacket,26,3800,28100,98800
+TRX-10823,25-03-2026,EMP1014,Aarti Saxena,,Electronics,Smartwatch,26,15500,37200,403000
+TRX-10824,26-03-2026,EMP1023,Alok Pandey,Central,Electronics,Laptop,27,11500,45400,310500
+TRX-10825,,EMP1023,Alok Pandey,West,Furniture,Bookshelf,40,14000,6600,560000
+TRX-10826,27-03-2026,EMP1012,Simran Kaur,South,Books,Fiction Novel,11,7800,13400,INR 85800
+TRX-10827,28-03-2026,EMP1017,Gaurav Mishra,South,Electronics,Smartwatch,28,19700,16400,INR 551600
+TRX-10828,"Mar 28, 2026",EMP1023,Alok Pandey,,Clothing,T-Shirt,35,1100,7600,38500
+TRX-10829,29-03-2026,EMP1021,Karan Kapoor,Central,Furniture,Bookshelf,29,2900,39000,84100
+TRX-10830,29-03-2026,EMP1006,Pooja Rani,West,Clothing,T-Shirt,32,3500,43500,112000
+TRX-10831,30-03-2026,EMP1025,Varun Dhawan,East,Electronics,Laptop,5,2200,35600,11000
+TRX-10832,30-03-2026,EMP1016,Ritu Chaudhary,,Electronics,Tablet,12,10300,34000,
+TRX-10833,31-03-2026,EMP1022,Sneha Nair,SOUTH,Books,Fiction Novel,3,13300,22400,39900
+TRX-10834,31-03-2026,EMP1005,Vikram Patel,east ,Electronics,Smartphone,16,12500,26100,200000
+TRX-10835,01-04-2026,EMP1013,Manish Tiwari,SOUTH,Electronics,Headphones,40,13700,18600,548000
+TRX-10836,,EMP1018,Swati Rao,West,Electronics,Smartwatch,16,17800,26300,284800
+TRX-10837,02-04-2026,EMP1018,Swati Rao,North,Clothing,Dress,5,6900,13900,34500
+TRX-10838,03-04-2026,EMP1003,Amit Verma,South,Books,Comic Book,15,18600,31900,
+TRX-10839,03-04-2026,EMP1021,Karan Kapoor,North,Electronics,Tablet,14,10200,23500,142800
+TRX-10840,04-04-2026,EMP1019,Nitin Bansal,Central,Books,Tech Manual,46,4200,20000,193200
+TRX-10841,04-04-2026,EMP1018,Swati Rao,,Electronics,Smartwatch,17,2800,48700,47600
+TRX-10842,05-04-2026,EMP1003,Amit Verma,east ,Books,Tech Manual,25,8300,13300,207500
+TRX-10843,,EMP1021,Karan Kapoor,North,Home Appliances,Refrigerator,40,2100,6500,84000
+TRX-10844,06-04-2026,EMP1021,Karan Kapoor,South,Home Appliances,Air Conditioner,32,5000,32200,160000
+TRX-10845,06-04-2026,EMP1020,Divya Bhatia,,Clothing,T-Shirt,38,1200,14100,45600
+TRX-10846,07-04-2026,EMP1007,Rohan Mehta,North,Electronics,Smartwatch,45,18400,24700,
+TRX-10847,,EMP1025,Varun Dhawan,north,Clothing,Jacket,42,2600,33400,109200
+TRX-10848,08-04-2026,EMP1004,Neha Gupta,east ,Books,Self-Help,32,12500,7400,400000
+TRX-10849,09-04-2026,EMP1018,Swati Rao,Central,Clothing,T-Shirt,8,15700,27600,125600
+TRX-10850,09-04-2026,EMP1022,Sneha Nair,East,Books,Biography,43,2000,40400,86000
+TRX-10851,"Apr 10, 2026",EMP1016,Ritu Chaudhary,SOUTH,Furniture,Office Chair,15,16800,44500,252000
+TRX-10852,10-04-2026,EMP1005,Vikram Patel,South,Home Appliances,Refrigerator,2,9300,41300,18600
+TRX-10853,"Apr 11, 2026",EMP1004,Neha Gupta,north,Clothing,Jacket,11,16500,13900,181500
+TRX-10854,11-04-2026,EMP1008,Anjali Roy,Central,Clothing,Jeans,10,14600,44700,146000
+TRX-10855,12-04-2026,EMP1012,Simran Kaur,East,Books,Biography,39,3400,12400,132600
+TRX-10856,12-04-2026,EMP1011,Deepak Yadav,East,Books,Biography,44,5900,42100,259600
+TRX-10857,13-04-2026,EMP1005,Vikram Patel,West,Furniture,Sofa,35,11000,17000,385000
+TRX-10858,14-04-2026,EMP1018,Swati Rao,North,Home Appliances,Microwave,43,10400,38600,447200
+TRX-10859,14-04-2026,EMP1022,Sneha Nair,East,Furniture,Bed,45,7500,6100,337500
+TRX-10860,"Apr 15, 2026",EMP1023,Alok Pandey,North,Furniture,Bed,17,16900,20700,287300
+TRX-10861,15-04-2026,EMP1019,Nitin Bansal,east ,Home Appliances,Refrigerator,37,12900,39300,477300
+TRX-10862,16-04-2026,EMP1002,Priya Singh,east ,Home Appliances,Microwave,44,8500,32300,374000
+TRX-10863,16-04-2026,EMP1008,Anjali Roy,SOUTH,Books,Tech Manual,22,17200,44400,378400
+TRX-10864,17-04-2026,EMP1010,Kavita Joshi,South,Clothing,Dress,8,11500,32900,92000
+TRX-10865,17-04-2026,EMP1021,Karan Kapoor,east ,Furniture,Office Chair,5,5800,14900,29000
+TRX-10866,18-04-2026,EMP1008,Anjali Roy,SOUTH,Clothing,T-Shirt,34,1600,34200,54400
+TRX-10867,18-04-2026,EMP1007,Rohan Mehta,SOUTH,Furniture,Bookshelf,38,14100,29100,
+TRX-10868,"Apr 19, 2026",EMP1012,Simran Kaur,,Furniture,Bookshelf,44,12000,37200,528000
+TRX-10869,,EMP1020,Divya Bhatia,East,Furniture,Office Chair,3,1600,40900,4800
+TRX-10870,20-04-2026,EMP1007,Rohan Mehta,South,Clothing,Jacket,9,5700,10700,51300
+TRX-10871,21-04-2026,EMP1009,Suresh Kumar,,Furniture,Bed,19,4800,33000,91200
+TRX-10872,21-04-2026,EMP1016,Ritu Chaudhary,east ,Clothing,Dress,28,13200,19600,369600
+TRX-10873,22-04-2026,EMP1001,Rahul Sharma,East,Home Appliances,Vacuum Cleaner,18,18500,15400,333000
+TRX-10874,22-04-2026,EMP1022,Sneha Nair,north,Home Appliances,Washing Machine,44,13200,47300,580800
+TRX-10875,23-04-2026,EMP1009,Suresh Kumar,South,Books,Fiction Novel,34,19200,25100,652800
+TRX-10876,"Apr 23, 2026",EMP1022,Sneha Nair,North,Furniture,Bookshelf,32,16400,45200,
+TRX-10877,24-04-2026,EMP1020,Divya Bhatia,North,Books,Fiction Novel,8,6600,43100,52800
+TRX-10878,24-04-2026,EMP1009,Suresh Kumar,east ,Home Appliances,Refrigerator,15,19000,24800,285000
+TRX-10879,25-04-2026,EMP1018,Swati Rao,,Home Appliances,Air Conditioner,46,16100,23900,740600
+TRX-10880,26-04-2026,EMP1022,Sneha Nair,east ,Home Appliances,Washing Machine,46,4700,9800,216200
+TRX-10881,26-04-2026,EMP1005,Vikram Patel,east ,Clothing,Dress,17,17000,43200,289000
+TRX-10882,27-04-2026,EMP1020,Divya Bhatia,north,Books,Fiction Novel,49,15800,33800,774200
+TRX-10883,27-04-2026,EMP1005,Vikram Patel,north,Home Appliances,Microwave,1,2900,19000,2900
+TRX-10884,"Apr 28, 2026",EMP1014,Aarti Saxena,east ,Clothing,T-Shirt,41,14800,41800,606800
+TRX-10885,28-04-2026,EMP1025,Varun Dhawan,North,Electronics,Laptop,36,4800,6000,172800
+TRX-10886,29-04-2026,EMP1014,Aarti Saxena,SOUTH,Electronics,Headphones,30,2100,30200,63000
+TRX-10887,29-04-2026,EMP1013,Manish Tiwari,West,Home Appliances,Air Conditioner,16,14400,35700,230400
+TRX-10888,30-04-2026,EMP1011,Deepak Yadav,east ,Electronics,Smartphone,39,14900,14200,INR 581100
+TRX-10889,30-04-2026,EMP1023,Alok Pandey,SOUTH,Clothing,Jeans,9,10700,28100,96300
+TRX-10890,"May 01, 2026",EMP1023,Alok Pandey,SOUTH,Furniture,Sofa,44,15400,20100,677600
+TRX-10891,"May 02, 2026",EMP1018,Swati Rao,east ,Electronics,Headphones,12,11000,21900,132000
+TRX-10892,"May 02, 2026",EMP1008,Anjali Roy,,Books,Comic Book,31,13100,15800,406100
+TRX-10893,03-05-2026,EMP1005,Vikram Patel,,Home Appliances,Washing Machine,39,8000,9600,312000
+TRX-10894,03-05-2026,EMP1003,Amit Verma,SOUTH,Books,Tech Manual,8,6100,13500,48800
+TRX-10895,04-05-2026,EMP1014,Aarti Saxena,North,Clothing,Dress,46,13500,41700,621000
+TRX-10896,04-05-2026,EMP1008,Anjali Roy,SOUTH,Furniture,Dining Table,49,7300,43000,357700
+TRX-10897,"May 05, 2026",EMP1018,Swati Rao,West,Electronics,Tablet,8,17500,42500,140000
+TRX-10898,05-05-2026,EMP1009,Suresh Kumar,West,Clothing,Dress,12,15400,49300,184800
+TRX-10899,06-05-2026,EMP1007,Rohan Mehta,,Clothing,Jeans,43,12500,28500,
+TRX-10900,06-05-2026,EMP1006,Pooja Rani,east ,Electronics,Smartwatch,16,14500,25900,232000
+TRX-10901,07-05-2026,EMP1020,Divya Bhatia,north,Home Appliances,Refrigerator,12,10100,23300,121200
+TRX-10902,08-05-2026,EMP1020,Divya Bhatia,Central,Electronics,Smartphone,29,19100,23600,553900
+TRX-10903,08-05-2026,EMP1008,Anjali Roy,West,Home Appliances,Vacuum Cleaner,34,8400,22700,285600
+TRX-10904,09-05-2026,EMP1001,Rahul Sharma,north,Furniture,Dining Table,7,13100,29100,91700
+TRX-10905,"May 09, 2026",EMP1023,Alok Pandey,east ,Electronics,Smartwatch,38,17100,18000,649800
+TRX-10906,"May 10, 2026",EMP1012,Simran Kaur,North,Home Appliances,Refrigerator,20,15500,40400,310000
+TRX-10907,10-05-2026,EMP1017,Gaurav Mishra,West,Clothing,Jacket,6,13200,40700,79200
+TRX-10908,11-05-2026,EMP1015,Sanjay Dutt,South,Furniture,Bookshelf,40,11300,19400,452000
+TRX-10909,11-05-2026,EMP1021,Karan Kapoor,east ,Home Appliances,Washing Machine,19,5600,13100,106400
+TRX-10910,12-05-2026,EMP1008,Anjali Roy,South,Furniture,Office Chair,49,12200,34400,597800
+TRX-10911,12-05-2026,EMP1010,Kavita Joshi,SOUTH,Electronics,Laptop,21,4600,21300,96600
+TRX-10912,13-05-2026,EMP1023,Alok Pandey,,Clothing,T-Shirt,30,8000,14200,240000
+TRX-10913,14-05-2026,EMP1024,Megha Jain,,Furniture,Office Chair,4,19400,49600,77600
+TRX-10914,14-05-2026,EMP1019,Nitin Bansal,Central,Electronics,Headphones,7,8400,33900,58800
+TRX-10915,15-05-2026,EMP1013,Manish Tiwari,South,Electronics,Tablet,39,8400,8300,327600
+TRX-10916,15-05-2026,EMP1016,Ritu Chaudhary,SOUTH,Books,Comic Book,21,18100,13000,380100
+TRX-10917,,EMP1007,Rohan Mehta,north,Books,Comic Book,41,7000,49900,287000
+TRX-10918,"May 16, 2026",EMP1025,Varun Dhawan,SOUTH,Home Appliances,Washing Machine,43,11200,20600,481600
+TRX-10919,17-05-2026,EMP1004,Neha Gupta,north,Electronics,Laptop,28,3900,21400,109200
+TRX-10920,"May 17, 2026",EMP1025,Varun Dhawan,North,Electronics,Tablet,18,1900,31100,34200
+TRX-10921,18-05-2026,EMP1001,Rahul Sharma,North,Books,Comic Book,1,6100,38900,6100
+TRX-10922,"May 18, 2026",EMP1009,Suresh Kumar,North,Books,Biography,17,9500,45900,161500
+TRX-10923,"May 19, 2026",EMP1002,Priya Singh,SOUTH,Books,Biography,6,15800,21300,94800
+TRX-10924,20-05-2026,EMP1005,Vikram Patel,SOUTH,Electronics,Smartphone,39,17000,48800,
+TRX-10925,20-05-2026,EMP1004,Neha Gupta,North,Books,Biography,28,1700,46200,47600
+TRX-10926,21-05-2026,EMP1025,Varun Dhawan,East,Electronics,Smartphone,22,13300,12800,292600
+TRX-10927,21-05-2026,EMP1022,Sneha Nair,North,Home Appliances,Vacuum Cleaner,5,8600,33800,43000
+TRX-10928,22-05-2026,EMP1014,Aarti Saxena,east ,Home Appliances,Washing Machine,49,10300,36800,504700
+TRX-10929,22-05-2026,EMP1014,Aarti Saxena,North,Electronics,Smartwatch,23,9300,10600,213900
+TRX-10930,23-05-2026,EMP1025,Varun Dhawan,,Clothing,Jeans,43,13300,37900,571900
+TRX-10931,"May 23, 2026",EMP1024,Megha Jain,SOUTH,Home Appliances,Refrigerator,45,4600,29800,INR 207000
+TRX-10932,,EMP1006,Pooja Rani,South,Electronics,Laptop,15,9900,17400,148500
+TRX-10933,24-05-2026,EMP1024,Megha Jain,north,Books,Self-Help,1,6900,15500,6900
+TRX-10934,25-05-2026,EMP1012,Simran Kaur,north,Home Appliances,Air Conditioner,39,14800,21900,577200
+TRX-10935,26-05-2026,EMP1001,Rahul Sharma,South,Electronics,Smartphone,24,13700,23300,328800
+TRX-10936,26-05-2026,EMP1009,Suresh Kumar,South,Home Appliances,Washing Machine,6,7600,46400,45600
+TRX-10937,,EMP1011,Deepak Yadav,West,Furniture,Dining Table,47,6600,47100,310200
+TRX-10938,27-05-2026,EMP1007,Rohan Mehta,South,Clothing,Dress,24,1100,15400,26400
+TRX-10939,28-05-2026,EMP1002,Priya Singh,SOUTH,Clothing,Sweater,1,4300,44400,4300
+TRX-10940,28-05-2026,EMP1019,Nitin Bansal,South,Books,Biography,23,15800,11000,363400
+TRX-10941,29-05-2026,EMP1012,Simran Kaur,north,Furniture,Dining Table,30,13500,17800,405000
+TRX-10942,29-05-2026,EMP1014,Aarti Saxena,West,Books,Self-Help,31,6400,7300,198400
+TRX-10943,"May 30, 2026",EMP1024,Megha Jain,east ,Clothing,Jeans,38,7400,38500,281200
+TRX-10944,30-05-2026,EMP1019,Nitin Bansal,East,Home Appliances,Vacuum Cleaner,17,19500,21400,331500
+TRX-10945,31-05-2026,EMP1010,Kavita Joshi,East,Furniture,Dining Table,42,15100,23600,634200
+TRX-10946,01-06-2026,EMP1010,Kavita Joshi,East,Electronics,Smartwatch,42,13900,17100,583800
+TRX-10947,,EMP1024,Megha Jain,SOUTH,Furniture,Office Chair,22,4300,44200,94600
+TRX-10948,"Jun 02, 2026",EMP1001,Rahul Sharma,,Furniture,Bookshelf,40,5400,40500,216000
+TRX-10949,02-06-2026,EMP1009,Suresh Kumar,north,Clothing,Dress,43,17600,41100,756800
+TRX-10950,03-06-2026,EMP1019,Nitin Bansal,SOUTH,Books,Fiction Novel,37,17400,42000,INR 643800
+TRX-10951,03-06-2026,EMP1022,Sneha Nair,east ,Books,Comic Book,2,3900,21000,7800
+TRX-10952,04-06-2026,EMP1018,Swati Rao,,Clothing,Dress,4,8600,8600,34400
+TRX-10953,,EMP1018,Swati Rao,east ,Clothing,T-Shirt,19,3700,10700,70300
+TRX-10954,05-06-2026,EMP1007,Rohan Mehta,North,Clothing,Sweater,47,2400,44200,112800
+TRX-10955,05-06-2026,EMP1005,Vikram Patel,,Clothing,T-Shirt,7,6500,26400,INR 45500
+TRX-10956,06-06-2026,EMP1025,Varun Dhawan,,Clothing,T-Shirt,49,6000,10900,294000
+TRX-10957,07-06-2026,EMP1005,Vikram Patel,South,Electronics,Smartwatch,14,17300,49100,242200
+TRX-10958,07-06-2026,EMP1015,Sanjay Dutt,east ,Clothing,Dress,21,3700,9700,77700
+TRX-10959,"Jun 08, 2026",EMP1016,Ritu Chaudhary,north,Furniture,Office Chair,38,17900,15300,INR 680200
+TRX-10960,08-06-2026,EMP1018,Swati Rao,SOUTH,Clothing,T-Shirt,21,7400,34400,155400
+TRX-10961,09-06-2026,EMP1020,Divya Bhatia,SOUTH,Electronics,Smartphone,46,18500,42900,851000
+TRX-10962,09-06-2026,EMP1007,Rohan Mehta,north,Furniture,Sofa,1,14200,38200,14200
+TRX-10963,10-06-2026,EMP1017,Gaurav Mishra,SOUTH,Books,Self-Help,49,10700,19400,
+TRX-10964,10-06-2026,EMP1011,Deepak Yadav,East,Books,Self-Help,31,9000,36900,279000
+TRX-10965,11-06-2026,EMP1010,Kavita Joshi,east ,Books,Comic Book,5,3900,36400,
+TRX-10966,"Jun 11, 2026",EMP1011,Deepak Yadav,West,Electronics,Smartphone,1,14100,34200,14100
+TRX-10967,12-06-2026,EMP1025,Varun Dhawan,East,Electronics,Headphones,43,8300,33900,356900
+TRX-10968,13-06-2026,EMP1006,Pooja Rani,South,Clothing,Jeans,42,15300,8100,642600
+TRX-10969,13-06-2026,EMP1021,Karan Kapoor,east ,Clothing,Sweater,44,1700,6400,74800
+TRX-10970,14-06-2026,EMP1005,Vikram Patel,South,Home Appliances,Washing Machine,43,2900,18800,124700
+TRX-10971,,EMP1018,Swati Rao,,Clothing,Jeans,26,16700,40300,434200
+TRX-10972,"Jun 15, 2026",EMP1019,Nitin Bansal,SOUTH,Furniture,Bookshelf,6,8700,49400,52200
+TRX-10973,15-06-2026,EMP1015,Sanjay Dutt,SOUTH,Electronics,Tablet,49,7900,22800,387100
+TRX-10974,16-06-2026,EMP1011,Deepak Yadav,,Home Appliances,Refrigerator,22,9800,10500,215600
+TRX-10975,16-06-2026,EMP1010,Kavita Joshi,,Furniture,Bookshelf,2,15300,26600,30600
+TRX-10976,17-06-2026,EMP1013,Manish Tiwari,East,Electronics,Smartwatch,21,16900,33600,354900
+TRX-10977,17-06-2026,EMP1008,Anjali Roy,,Clothing,Jeans,37,11400,20500,INR 421800
+TRX-10978,18-06-2026,EMP1010,Kavita Joshi,SOUTH,Furniture,Office Chair,10,18400,43100,184000
+TRX-10979,19-06-2026,EMP1006,Pooja Rani,North,Home Appliances,Refrigerator,41,3800,38000,155800
+TRX-10980,19-06-2026,EMP1015,Sanjay Dutt,South,Electronics,Smartphone,42,19500,15300,819000
+TRX-10981,"Jun 20, 2026",EMP1025,Varun Dhawan,East,Furniture,Office Chair,22,15400,28500,338800
+TRX-10982,20-06-2026,EMP1009,Suresh Kumar,Central,Furniture,Bookshelf,20,4400,18800,88000
+TRX-10983,21-06-2026,EMP1014,Aarti Saxena,West,Furniture,Office Chair,40,11100,22100,444000
+TRX-10984,"Jun 21, 2026",EMP1012,Simran Kaur,Central,Furniture,Bed,11,13400,37300,147400
+TRX-10985,22-06-2026,EMP1012,Simran Kaur,,Books,Tech Manual,42,8600,15100,361200
+TRX-10986,22-06-2026,EMP1019,Nitin Bansal,east ,Home Appliances,Microwave,13,19500,12600,253500
+TRX-10987,23-06-2026,EMP1002,Priya Singh,north,Books,Tech Manual,33,15100,25000,498300
+TRX-10988,23-06-2026,EMP1020,Divya Bhatia,North,Electronics,Smartwatch,47,12100,49500,568700
+TRX-10989,"Jun 24, 2026",EMP1017,Gaurav Mishra,east ,Furniture,Office Chair,12,9300,17400,111600
+TRX-10990,"Jun 25, 2026",EMP1016,Ritu Chaudhary,Central,Electronics,Tablet,33,3900,9800,128700
+TRX-10991,25-06-2026,EMP1015,Sanjay Dutt,South,Furniture,Sofa,15,2400,35000,36000
+TRX-10992,26-06-2026,EMP1014,Aarti Saxena,north,Electronics,Headphones,29,19900,12400,577100
+TRX-10993,26-06-2026,EMP1022,Sneha Nair,east ,Electronics,Tablet,22,2900,11500,63800
+TRX-10994,27-06-2026,EMP1025,Varun Dhawan,,Clothing,T-Shirt,5,6400,39200,INR 32000
+TRX-10995,27-06-2026,EMP1008,Anjali Roy,north,Books,Biography,15,15900,36600,238500
+TRX-10996,,EMP1022,Sneha Nair,West,Clothing,T-Shirt,3,1900,38700,5700
+TRX-10997,28-06-2026,EMP1015,Sanjay Dutt,North,Home Appliances,Microwave,11,12200,33200,134200
+TRX-10998,,EMP1019,Nitin Bansal,,Books,Self-Help,37,12800,16000,473600
+TRX-10999,30-06-2026,EMP1020,Divya Bhatia,Central,Home Appliances,Microwave,41,17600,17100,721600
